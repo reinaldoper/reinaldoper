@@ -6,20 +6,20 @@ I'm a recent graduate in software engineering looking for opportunities related 
 -  I'm currently working in industrial automation and electrical in search of career change.
 -  I'm currently learning Computer Vision techniques and React.js Learning, javaScript and Web development at Trybe.
 
-<h4 align="center">Projects carried out at Trybe</h4>
+## Projects carried out at Trybe:
 
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Here's a project carried out at Trybe, where the intention was to get data from an API that simulates the Free Market. Technologies used: React.js, javaScript, CSS, bootstrap, HTML..
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Another project carried out at Trybe, where the intention was to get data from an API that simulates a recipe application, where the user searches for drinks or food. Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Trybe Tunes](https://trybe-tunes.web.app/)  - Music search project, where the user searches for band names and can favorite their favorite songs (Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 
-## Ferramentas e Tecnologias:
+## Tools and Technologies:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
-
+## Statistics of most used technologies in projects:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
