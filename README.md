@@ -3,7 +3,7 @@
 
 ### Hi there, i am Reinaldo. 👋
 I'm a recent graduate in software engineering looking for opportunities related to web development, front-end, back-end, full-stack.
--  I'm currently working in industrial automation and electrical in search of career change.
+-  I'm currently working in industrial automation and electrical in search of career change. I started my graduation in the programming area at the federal college UFGD de Dourados/MS in Information Systems, after 3 years of course, I migrated to Unicesumar college as Software Engineering, from which I graduated at the end of 2021.
 -  I'm currently learning Computer Vision techniques and React.js Learning, javaScript and Web development at Trybe.
 
 ## Some projects carried out at Trybe:
