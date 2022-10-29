@@ -16,6 +16,6 @@ I'm a recent graduate in software engineering looking for opportunities related 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
 
-<div><a href="https://github.com/reinaldoper"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+<div><a href="https://github.com/reinaldoper"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
 
