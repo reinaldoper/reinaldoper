@@ -13,7 +13,7 @@ I'm a recent graduate in software engineering looking for opportunities related 
 - [Project Trybe Tunes](https://trybe-tunes.web.app/)  - Music search project, where the user searches for band names and can favorite their favorite songs (Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Solar System](https://helpful-duckanoo-fa7037.netlify.app/)  - Solar system API request project, where it shows the panettes.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Trivia](https://benevolent-liger-a7fc49.netlify.app/)  -Q&A project based on the Trivia API.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, Redux, CSS, bootstrap, HTML.
-- [Project StarWars](https://benevolent-liger-a7fc49.netlify.app/)  -Star wars project, showing the entire trilogy of one of the most famous series (films) in the world, where the user can select, filter and order the planets of the series.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
+- [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Star wars project, showing the entire trilogy of one of the most famous series (films) in the world, where the user can select, filter and order the planets of the series.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
 
 ## Tools and Technologies:
 
