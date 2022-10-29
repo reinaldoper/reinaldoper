@@ -12,6 +12,8 @@ I'm a recent graduate in software engineering looking for opportunities related 
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Another project carried out at Trybe, where the intention was to get data from an API that simulates a recipe application, where the user searches for drinks or food. Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Trybe Tunes](https://trybe-tunes.web.app/)  - Music search project, where the user searches for band names and can favorite their favorite songs (Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 
+## Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
