@@ -6,6 +6,8 @@ I'm a recent graduate in software engineering looking for opportunities related 
 - 🔭 I'm currently working in industrial automation and electrical in search of career change.
 - 🌱 I'm currently learning Computer Vision techniques and React.js Learning, javaScript and Web development at Trybe.
 
+<h1 align="center">Projects carried out at Trybe</h1>
+
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Here's a project carried out at Trybe, where the intention was to get data from an API that simulates the Free Market.
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Another project carried out at Trybe, where the intention was to get data from an API that simulates a recipe application, where the user searches for drinks or food.
 - [Project Trybe Tunes](https://trybe-tunes.web.app/) 💻 - Music search project, where the user searches for band names and can favorite their favorite songs (Project carried out while a student at Trybe).
