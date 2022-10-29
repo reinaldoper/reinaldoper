@@ -1,5 +1,4 @@
 ### Hi there 👋
-![descrição da imagem](https://avatars.githubusercontent.com/u/17199815?s=400&u=e482bf4c65618f3fefb9e98e9c7a1672a555dd30&v=4)
 
 
 ### Hi there, i am Reinaldo. 👋
