@@ -9,7 +9,7 @@ I'm a recent graduate in software engineering looking for opportunities related 
 ## Projects carried out at Trybe:
 
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Here's a project carried out at Trybe, where the intention was to get data from an API that simulates the Free Market. Technologies used: React.js, javaScript, CSS, bootstrap, HTML..
-- [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Another project carried out at Trybe, where the intention was to get data from an API that simulates a recipe application, where the user searches for drinks or food. Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
+- [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Another project carried out at Trybe, where the intention was to get data from an API that simulates a recipe application, where the user searches for drinks or food. Technologies used: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 - [Project Trybe Tunes](https://trybe-tunes.web.app/)  - Music search project, where the user searches for band names and can favorite their favorite songs (Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Solar System](https://helpful-duckanoo-fa7037.netlify.app/)  - Solar system API request project, where it shows the panettes.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Trivia](https://benevolent-liger-a7fc49.netlify.app/)  -Q&A project based on the Trivia API.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, Redux, CSS, bootstrap, HTML.
