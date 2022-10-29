@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Hi there, i am Reinaldo. 👋
 I'm a recent graduate in software engineering looking for opportunities related to web development, front-end, back-end, full-stack.
