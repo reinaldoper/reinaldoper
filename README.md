@@ -12,10 +12,11 @@ I'm a recent graduate in software engineering looking for opportunities related 
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Another project carried out at Trybe, where the intention was to get data from an API that simulates a recipe application, where the user searches for drinks or food. Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 - [Project Trybe Tunes](https://trybe-tunes.web.app/)  - Music search project, where the user searches for band names and can favorite their favorite songs (Project carried out while a student at Trybe). Technologies used: React.js, javaScript, CSS, bootstrap, HTML.
 
-## Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+## Ferramentas e Tecnologias  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 
 
 
