@@ -34,6 +34,7 @@ I'm a recent graduate in software engineering looking for opportunities related 
 
  
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
  
  
  
