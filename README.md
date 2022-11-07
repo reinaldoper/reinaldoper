@@ -32,7 +32,9 @@ I'm a recent graduate in software engineering looking for opportunities related 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
 ## Statistics of most used technologies in projects:
 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
  
  
