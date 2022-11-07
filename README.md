@@ -33,7 +33,7 @@ I'm a recent graduate in software engineering looking for opportunities related 
 ## Statistics of most used technologies in projects:
 
  
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true)
  
  
