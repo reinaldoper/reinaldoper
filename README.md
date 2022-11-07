@@ -36,10 +36,10 @@ I'm a recent graduate in software engineering looking for opportunities related 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true)
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/reinaldoper/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldoper&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/reinaldoper/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldoper&repo=convoychat" />
 </a>
  
