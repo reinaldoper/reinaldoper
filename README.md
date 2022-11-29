@@ -31,14 +31,4 @@ I'm a recent graduate in software engineering looking for opportunities related 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
 ## Statistics of most used technologies in projects:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldoper)](https://github.com/reinaldoper/github-readme-stats)
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)](https://github.com/reinaldoper/github-readme-stats)
