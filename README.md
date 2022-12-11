@@ -12,7 +12,7 @@ I'm a recent graduate in software engineering looking for opportunities related 
 - [Project Trivia](https://benevolent-liger-a7fc49.netlify.app/)  -Q&A project based on the Trivia API.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, Redux, CSS, bootstrap, HTML.
 - [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Star wars project, showing the entire trilogy of one of the most famous series (films) in the world, where the user can select, filter and order the planets of the series.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
 - [Project Filter of data](https://wallet-react-28af6.web.app/)  -Project that aims to simulate an expense table, where a request is made to the API, which returns the values ​​of currencies, being able to add, change or remove an expense.(Project carried out while a student at Trybe). Technologies used: React.js, javaScript, Redux, CSS, bootstrap, HTML.
-- [Project Films and Series](https://capable-torte-075786.netlify.app/)  -Project to list images films and series. Technologies used: React.js, javaScript, Redux, CSS, HTML.
+- [Project backEnd](https://exciting-scent-production.up.railway.app/employees/)  -First project backEnd, . Technologies used: NodeJS, express, railway deploing, sequeize, MySql.
 
 ## Tools and Technologies:
 
