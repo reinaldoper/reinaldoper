@@ -1,7 +1,7 @@
 ### <h1 align="center">Oi pessoal</h1>
 
 
-### Hi there, i am Reinaldo. 👋
+### Olá, eu sou o Reinaldo. 👋
 Sou recém-formado em engenharia de software em busca de oportunidades relacionadas a desenvolvimento web, front-end, back-end, full-stack.
 - Atualmente estou trabalhando em automação industrial e elétrica em busca de mudança de carreira. Iniciei minha graduação na área de programação na faculdade federal UFGD de Dourados/MS em Sistemas de Informação, após 3 anos de curso, migrei para a faculdade Unicesumar como Engenharia de Software, onde me formei no final de 2021.
 ## Alguns projetos realizados na Trybe:
