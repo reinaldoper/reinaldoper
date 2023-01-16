@@ -15,7 +15,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project book exchange-full-stack](https://skambooks-production.up.railway.app/skambooks)  -Um projeto de pesquisa completa para troca de livros entre leitores. Os leitores se cadastram no sistema e adicionam seus livros disponíveis para troca. A cada livro trocado, o leitor que envia o livro ganha um crédito, que lhe dá direito a receber outro livro.[Projeto realizado em conjunto com](https://github.com/stonefullstm). Tecnologias utilizadas: React.js, javaScript, Redux, CSS, nodeJs, HTML, sequelize, typeScript.
 - [Project back-end](https://flippant-rose-production.up.railway.app/employees/)  -Projeto usando nodeJs, sequelize. Tecnologias utilizadas para deploing: Railway.
 
-## Rerramentas e tecnologias:
+## Ferramentas e tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
