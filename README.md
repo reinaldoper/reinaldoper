@@ -30,6 +30,6 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 ## linkedin:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
-## Statistics of most used technologies in projects:
+## Estatísticas das tecnologias mais utilizadas em projetos:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldoper)](https://github.com/reinaldoper/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)](https://github.com/reinaldoper/github-readme-stats)
