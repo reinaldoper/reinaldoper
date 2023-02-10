@@ -13,7 +13,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Projeto Star Wars, mostrando toda a trilogia de uma das séries (filmes) mais famosas do mundo, onde o usuário pode selecionar, filtrar e ordenar os planetas da série. (Projeto realizado enquanto estudante da Trybe). Tecnologias utilizadas: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
  ## Alguns projetos realizados por mim:
 - [Project book exchange-full-stack](https://skambooks-production.up.railway.app/skambooks)  -Um projeto de pesquisa completa para troca de livros entre leitores. Os leitores se cadastram no sistema e adicionam seus livros disponíveis para troca. A cada livro trocado, o leitor que envia o livro ganha um crédito, que lhe dá direito a receber outro livro.[Projeto realizado em conjunto com](https://github.com/stonefullstm). Tecnologias utilizadas: React.js, javaScript, Redux, CSS, nodeJs, HTML, sequelize, typeScript.
-- [Project league soccer- front-end](https://classy-vacherin-a43e5f.netlify.app/) - Um projeto que usa uma API de busca por times por ID de todas as ligas de futebol do mundo. Tecnologias utilizadas: React.js, Redux, CSS, HTML.
+- [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
 
 
 
