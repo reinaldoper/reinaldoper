@@ -5,7 +5,7 @@
 Sou recém-formado em engenharia de software em busca de oportunidades relacionadas a desenvolvimento web, front-end, back-end, full-stack.
 - Atualmente estou trabalhando em automação industrial e elétrica em busca de mudança de carreira. Iniciei minha graduação na área de programação na faculdade federal UFGD de Dourados/MS em Sistemas de Informação, após 3 anos de curso, migrei para a faculdade Unicesumar como Engenharia de Software, onde me formei no final de 2021.
 ## Meu portfolio pessoal:
-- [Portfolio](https://pessoal-portfolio.netlify.app/) - Página oficial.
+- [Portfolio](https://imaginative-griffin-f508aa.netlify.app/) - Página oficial.
 ## Alguns projetos realizados na Trybe:
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas: React.js, javaScript, CSS, bootstrap, HTML..
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
