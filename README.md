@@ -16,6 +16,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
  ## Alguns projetos realizados por mim:
 - [Project league soccer](https://classy-vacherin-a43e5f.netlify.app/)  - Projeto que usa uma API que tráz todos os escudos de times de diferentes ligas de futebol do mundo: React.js, javaScript, Redux, CSS, HTML.
 - [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
+- [Project BackEnd](https://flippant-rose-production.up.railway.app/employees) - Primeiro projeto de backEnd.
 
 
 
