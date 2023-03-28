@@ -17,6 +17,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project league soccer](https://classy-vacherin-a43e5f.netlify.app/)  - Projeto que usa uma API que tráz todos os escudos de times de diferentes ligas de futebol do mundo: React.js, javaScript, Redux, CSS, HTML.
 - [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
 - [Project SearchMusics](https://music-project-api.netlify.app/) - Aplicação para pesquisas de músicas usando a API da Deezer.
+- [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 
 
 
