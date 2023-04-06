@@ -14,7 +14,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project Trivia](https://benevolent-liger-a7fc49.netlify.app/)  -Projeto de perguntas e respostas baseado na Trivia API.(Projeto realizado enquanto estudante na Trybe). Tecnologias utilizadas: React.js, javaScript, Redux, CSS, bootstrap, HTML.
 - [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Projeto Star Wars, mostrando toda a trilogia de uma das séries (filmes) mais famosas do mundo, onde o usuário pode selecionar, filtrar e ordenar os planetas da série. (Projeto realizado enquanto estudante da Trybe). Tecnologias utilizadas: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
  ## Alguns projetos realizados por mim:
-- [Project league soccer](https://classy-vacherin-a43e5f.netlify.app/)  - Projeto que usa uma API que tráz todos os escudos de times de diferentes ligas de futebol do mundo: React.js, javaScript, Redux, CSS, HTML.
+- [Project maps-districts](https://municipios-maps.netlify.app/)  - Projeto que usa uma base de dados dos correios para localização dos pontos geográficos dos municipios brasileiros.
 - [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
 - [Project SearchMusics](https://music-project-api.netlify.app/) - Aplicação para pesquisas de músicas usando a API da Deezer.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
