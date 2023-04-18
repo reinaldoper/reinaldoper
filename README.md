@@ -19,7 +19,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project SearchMusics](https://music-project-api.netlify.app/) - Aplicação para pesquisas de músicas usando a API da Deezer.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
-
+<img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="50" height="50"/>
 
 
 ## Ferramentas e tecnologias:
