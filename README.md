@@ -1,11 +1,10 @@
 ### <h1 align="center">Oi pessoal</h1>
 
-
+<img src='https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg' style='max-width: 100%;'/>
 ### Olá, eu sou o Reinaldo. 👋
 Sou recém-formado em engenharia de software em busca de oportunidades relacionadas a desenvolvimento web, front-end, back-end, full-stack.
 - Atualmente estou trabalhando em automação industrial e elétrica em busca de mudança de carreira. Iniciei minha graduação na área de programação na faculdade federal UFGD de Dourados/MS em Sistemas de Informação, após 3 anos de curso, migrei para a faculdade Unicesumar como Engenharia de Software, onde me formei no final de 2021.
 ## Meu portfolio pessoal:
-<img src='https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg' style='max-width: 100%;'/>
 - [Portfolio](https://portfolio-pessoal1.netlify.app/) - Página oficial.
 ## Alguns projetos realizados na Trybe:
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas: React.js, javaScript, CSS, bootstrap, HTML..
