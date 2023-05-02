@@ -19,7 +19,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project SearchMusics](https://music-project-api.netlify.app/) - Aplicação para pesquisas de músicas usando a API da Deezer.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
-- [Project Todo-List](https://scintillating-sfogliatella-68a838.netlify.app/) - Projeto todo-list feito em React Vite.
+- [Project Todo-List](https://sage-baklava-b2bf1a.netlify.app/) - Projeto todo-list feito em React Vite com paginação usando a biblioteca Pagination do React.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
 
 
