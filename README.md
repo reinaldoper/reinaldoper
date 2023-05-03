@@ -23,6 +23,8 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 - [Project Todo-List](https://sage-baklava-b2bf1a.netlify.app/) - Projeto todo-list feito em React Vite com paginação usando a biblioteca Pagination do React.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
 
+![octocat-1683125174316](https://user-images.githubusercontent.com/17199815/235952334-f2a80709-1cc9-4bb2-ab58-d2e2ceb37592.png)
+
 
 ## Ferramentas e tecnologias:
 
