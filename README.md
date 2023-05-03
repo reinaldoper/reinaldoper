@@ -1,6 +1,7 @@
 <img src='https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg' style='max-width: 100%;'/>
 
 ### <h1 align="center">Oi pessoal</h1>
+- 🔭 Atualmente estou trabalhando em ...
 ### Olá, eu sou o Reinaldo. 👋
 Sou recém-formado em engenharia de software em busca de oportunidades relacionadas a desenvolvimento web, front-end, back-end, full-stack.
 - Atualmente estou trabalhando em automação industrial e elétrica em busca de mudança de carreira. Iniciei minha graduação na área de programação na faculdade federal UFGD de Dourados/MS em Sistemas de Informação, após 3 anos de curso, migrei para a faculdade Unicesumar como Engenharia de Software, onde me formei no final de 2021.
@@ -42,7 +43,7 @@ Sou recém-formado em engenharia de software em busca de oportunidades relaciona
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)
 
-- Quer me contactar? `reinaldoper83@gmail.com`
+- 📫 Como entrar em contato comigo: ... `reinaldoper83@gmail.com`
 ## Estatísticas das tecnologias mais utilizadas em projetos:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldoper)](https://github.com/reinaldoper/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)](https://github.com/reinaldoper/github-readme-stats)
