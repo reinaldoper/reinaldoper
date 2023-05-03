@@ -1,7 +1,7 @@
 <img src='https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg' style='max-width: 100%;'/>
-
-### <h1 align="center">Oi pessoal</h1>
 <img src="https://user-images.githubusercontent.com/17199815/235952334-f2a80709-1cc9-4bb2-ab58-d2e2ceb37592.png" width="100" height="100"/>
+### <h1 align="center">Oi pessoal</h1>
+
 - 🔭 Atualmente estou trabalhando em ...
 ### Olá, eu sou o Reinaldo. 👋
 Sou recém-formado em engenharia de software em busca de oportunidades relacionadas a desenvolvimento web, front-end, back-end, full-stack.
