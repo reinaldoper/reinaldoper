@@ -4,8 +4,8 @@
 <h1 align="center">- 🔭 Atualmente estou trabalhando em ...</h1>
 
 ### Olá, eu sou o Reinaldo. 👋
-Sou recém-formado em engenharia de software em busca de oportunidades relacionadas a desenvolvimento web, front-end, back-end, full-stack.
-- Atualmente estou trabalhando em automação industrial e elétrica em busca de mudança de carreira. Iniciei minha graduação na área de programação na faculdade federal UFGD de Dourados/MS em Sistemas de Informação, após 3 anos de curso, migrei para a faculdade Unicesumar como Engenharia de Software, onde me formei no final de 2021.
+<h2>Desenvolvedor web, front-end, back-end, full-stack.</>
+
 ## Meu portfolio pessoal:
 - [Portfolio](https://portfolio-pessoal1.netlify.app/) - Página oficial.
 ## Alguns projetos realizados na Trybe:
