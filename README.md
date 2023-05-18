@@ -21,6 +21,7 @@
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
 - [Project Todo-List](https://sage-baklava-b2bf1a.netlify.app/) - Projeto todo-list feito em React Vite com paginação usando a biblioteca Pagination do React.
+- [shopper VagaFullStack](https://github.com/reinaldoper/shopper) - Projeto que lê um arquivo .csv, interpreta-o, faz a validação no DB conforme regras de negócio.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
  
 ## Minhas Skills:
