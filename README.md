@@ -16,6 +16,7 @@
 - [Delivery Project-FullStack](https://github.com/tryber/sd-023-a-project-delivery-app/pull/726) -Projeto em grupo realizado na Trybe. Tanto o back-end quanto o front-end foi realizado do zero, sendo usado as tecnologias: ReactJs, Redux, nodeJs, express, sequelize como ORM, MySql.
 - [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Projeto Star Wars, mostrando toda a trilogia de uma das séries (filmes) mais famosas do mundo, onde o usuário pode selecionar, filtrar e ordenar os planetas da série. (Projeto realizado enquanto estudante da Trybe). Tecnologias utilizadas: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
  ## Alguns projetos realizados por mim:
+- [drone-feeder Project-Java- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado em Java usando a ORM do Spring-Boot.
 - [Skambooks Project-FullStack](https://github.com/stonefullstm/project-skambooks/tree/master) - Projeto desenvolvido em compainha com um amigo, no qual se baseia em cadastro e empréstimos de livros usando como cadastro o ISBN, também usa-se uma API de CEP de cadastro de usuário. (tecnologias usadas: ReactJs, Redux, nodeJs, javaScript, CSS).
 - [Project maps-districts](https://municipios-maps.netlify.app/)  - Projeto que usa uma base de dados dos correios para localização dos pontos geográficos dos municipios brasileiros.
 - [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
