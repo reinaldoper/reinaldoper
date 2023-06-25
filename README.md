@@ -20,7 +20,7 @@
 - [Skambooks Project-FullStack](https://github.com/stonefullstm/project-skambooks/tree/master) - Projeto desenvolvido em compainha com um amigo, no qual se baseia em cadastro e empréstimos de livros usando como cadastro o ISBN, também usa-se uma API de CEP de cadastro de usuário. (tecnologias usadas: ReactJs, Redux, nodeJs, javaScript, CSS).
 - [Project maps-districts](https://municipios-maps.netlify.app/)  - Projeto que usa uma base de dados dos correios para localização dos pontos geográficos dos municipios brasileiros.
 - [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
-- [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux.
+- [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
 - [Project Todo-List](https://sage-baklava-b2bf1a.netlify.app/) - Projeto todo-list feito em React Vite com paginação usando a biblioteca Pagination do React.
