@@ -18,7 +18,7 @@
  ## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
 - [Project maps-districts](https://municipios-maps.netlify.app/)  - Projeto que usa uma base de dados dos correios para localização dos pontos geográficos dos municipios brasileiros.
-- [Project data Covid-19](https://super-sawine-84e189.netlify.app/) - Projeto que usa uma API de dados referentes aos óbitos de Covid-19 por estado no Brasil: React.js, ChartJs, hooks, CSS, javaScript.
+- [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
