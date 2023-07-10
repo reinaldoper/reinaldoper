@@ -22,7 +22,7 @@
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
-- [Project Shopping](https://github.com/reinaldoper/shopping) - Projeto que lista vários itens de uma loja virtual, pesquisa itens, faz a compra on-line.
+- [Project Shopping](https://github.com/reinaldoper/shopping) - Projeto feito em typeScript que lista vários itens de uma loja virtual, pesquisa itens, faz a compra on-line.
 - [shopper VagaFullStack](https://github.com/reinaldoper/shopper) - Projeto que lê um arquivo .csv, interpreta-o, faz a validação no DB conforme regras de negócio.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
  
