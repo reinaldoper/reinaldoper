@@ -3,7 +3,7 @@
 <h1 align="center">- 🔭 Mais sobre mim ...</h1>
 
 ### Olá, eu sou o Reinaldo. 👋
-<h2>Desenvolvedor web, front-end, back-end, full-stack.</>
+<h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
 ✍🏼 <h2>Estudante de Project Manager in Google</h2>
 
 ## Meu portfolio pessoal:
