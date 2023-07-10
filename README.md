@@ -17,12 +17,12 @@
 - [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Projeto Star Wars, mostrando toda a trilogia de uma das séries (filmes) mais famosas do mundo, onde o usuário pode selecionar, filtrar e ordenar os planetas da série. (Projeto realizado enquanto estudante da Trybe). Tecnologias utilizadas: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
  ## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
+- [Project Shopping](https://resplendent-marshmallow-864b5f.netlify.app/) - Projeto feito em typeScript que lista vários itens de uma loja virtual, pesquisa itens, faz a compra on-line.
 - [Project maps-districts](https://municipios-maps.netlify.app/)  - Projeto que usa uma base de dados dos correios para localização dos pontos geográficos dos municipios brasileiros.
 - [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
 - [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
-- [Project Shopping](https://resplendent-marshmallow-864b5f.netlify.app/) - Projeto feito em typeScript que lista vários itens de uma loja virtual, pesquisa itens, faz a compra on-line.
 - [shopper VagaFullStack](https://github.com/reinaldoper/shopper) - Projeto que lê um arquivo .csv, interpreta-o, faz a validação no DB conforme regras de negócio.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
  
