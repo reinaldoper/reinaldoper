@@ -4,7 +4,7 @@
 
 ### Olá, eu sou o Reinaldo. 👋
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
-✍🏼 <h2>Estudante de Project Manager in Google</h2>
+- ✍🏼 Estudante de Project Manager in Google
 
 ## Meu portfolio pessoal:
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
