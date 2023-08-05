@@ -23,7 +23,7 @@
 - [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
-- [Project RequestCep](https://meu-cep-app.netlify.app/) - Projeto de pesquisa por CEP.
+- [Project FullStack](https://github.com/reinaldoper/conta-caixa) - Projeto de compras, gerenciamento de usuários, cadastro de cashback. (Docker, React, Prisma, Express, Jwt, tests).
 - [shopper VagaFullStack](https://github.com/reinaldoper/shopper) - Projeto que lê um arquivo .csv, interpreta-o, faz a validação no DB conforme regras de negócio.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
  
