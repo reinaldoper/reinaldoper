@@ -22,7 +22,7 @@
 - [Project fluxo-conta](https://github.com/reinaldoper/fluxo-conta)  - Projeto conta bancária, adiciona crédito, adiciona débito, extrato das transações. Feito usando no back-end Prisma como ORM, bando de dados MySql, e express como servidor da aplicação. No front-end ReactJs com vite, a aplicação é com docker e usa TypeScript tanto do front quanto no back.
 - [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
-- [Project CalcCientifica](https://calculadora-minicientifica.netlify.app/) - Calculadora mini-ciêntifica para fins didáticos.
+- [Project using Angular_Digimon](https://master--euphonious-chaja-55b1e0.netlify.app/) - Projeto feito em angular consumindo a API-Digimons.
 - [Project FullStack](https://github.com/reinaldoper/conta-caixa) - Projeto de compras, gerenciamento de usuários, cadastro de cashback. (Docker, React, Prisma, Express, Jwt, tests).
 - [Project using angular](https://master--lively-puppy-aafe9d.netlify.app/) - Projeto blog da trilogia dos X-MEN.
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
