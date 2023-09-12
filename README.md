@@ -19,6 +19,7 @@
  ## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular.
+- [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project fluxo-conta](https://github.com/reinaldoper/fluxo-conta)  - Projeto conta bancária, adiciona crédito, adiciona débito, extrato das transações. Feito usando no back-end Prisma como ORM, bando de dados MySql, e express como servidor da aplicação. No front-end ReactJs com vite, a aplicação é com docker e usa TypeScript tanto do front quanto no back.
 - [Project conta-cashback](https://github.com/reinaldoper/conta-caixa)  - Projeto que adiciona valores de pagamentos, incluindo seus cashback, retorna extrato das transações.(ReactJs, Prisma, express, MySql, express, jest)
 - [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
