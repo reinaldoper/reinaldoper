@@ -18,6 +18,7 @@
 - [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Projeto Star Wars, mostrando toda a trilogia de uma das séries (filmes) mais famosas do mundo, onde o usuário pode selecionar, filtrar e ordenar os planetas da série. (Projeto realizado enquanto estudante da Trybe). Tecnologias utilizadas: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
  ## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
+- [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular.
 - [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project fluxo-conta](https://github.com/reinaldoper/fluxo-conta)  - Projeto conta bancária, adiciona crédito, adiciona débito, extrato das transações. Feito usando no back-end Prisma como ORM, bando de dados MySql, e express como servidor da aplicação. No front-end ReactJs com vite, a aplicação é com docker e usa TypeScript tanto do front quanto no back.
