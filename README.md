@@ -11,12 +11,7 @@
 ## Alguns projetos realizados na Trybe:
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas: React.js, javaScript, CSS, bootstrap, HTML..
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
-- [Project Trybe Tunes](https://trybe-tunes.web.app/)  -Projeto de busca de músicas, onde o usuário busca por nomes de bandas e pode favoritar suas músicas favoritas (Projeto realizado enquanto aluno da Trybe). Tecnologias utilizadas: React.js, javaScript, CSS, bootstrap, HTML.
-- [Project Solar System](https://helpful-duckanoo-fa7037.netlify.app/)  - Projeto de solicitação de API do sistema solar, onde mostra os planetas. (Projeto realizado enquanto estudante na Trybe). Tecnologias utilizadas: React.js, javaScript, CSS, bootstrap, HTML.
-- [Project Trivia](https://benevolent-liger-a7fc49.netlify.app/)  -Projeto de perguntas e respostas baseado na Trivia API.(Projeto realizado enquanto estudante na Trybe). Tecnologias utilizadas: React.js, javaScript, Redux, CSS, bootstrap, HTML.
-- [Delivery Project-FullStack](https://github.com/tryber/sd-023-a-project-delivery-app/pull/726) -Projeto em grupo realizado na Trybe. Tanto o back-end quanto o front-end foi realizado do zero, sendo usado as tecnologias: ReactJs, Redux, nodeJs, express, sequelize como ORM, MySql.
-- [Project StarWars](https://prismatic-conkies-e5b11a.netlify.app/)  -Projeto Star Wars, mostrando toda a trilogia de uma das séries (filmes) mais famosas do mundo, onde o usuário pode selecionar, filtrar e ordenar os planetas da série. (Projeto realizado enquanto estudante da Trybe). Tecnologias utilizadas: React.js, javaScript, ContextApi, hooks, CSS, bootstrap, HTML.
- ## Alguns projetos realizados por mim:
+## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
 - [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular.
