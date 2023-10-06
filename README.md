@@ -13,6 +13,7 @@
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 ## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
+- [Project Qrcode](https://qrcode-taupe-zeta.vercel.app/) - Projeto gerador de Qrcode.
 - [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
 - [Project conta-cashback](https://front-conta.vercel.app/)  - Projeto que adiciona valores de pagamentos, incluindo seus cashback, retorna extrato das transações.(ReactJs, Prisma, express, PostgreSQL, express, jest)
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular.
