@@ -13,12 +13,12 @@
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 ## Alguns projetos realizados por mim:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
-- [Project Qrcode](https://qrcode-taupe-zeta.vercel.app/) - Projeto gerador de Qrcode.
 - [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
 - [Project conta-cashback](https://front-conta.vercel.app/)  - Projeto que adiciona valores de pagamentos, incluindo seus cashback, retorna extrato das transações.(ReactJs, Prisma, express, PostgreSQL, express, jest)
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular.
 - [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project fluxo-conta](https://fluxo-phi.vercel.app/)  - Projeto conta bancária, adiciona crédito, adiciona débito, extrato das transações. Feito usando no back-end Prisma como ORM, bando de dados MySql, e express como servidor da aplicação. No front-end ReactJs com vite, a aplicação é com docker e usa TypeScript tanto do front quanto no back.
+- [Project Qrcode](https://qrcode-taupe-zeta.vercel.app/) - Projeto gerador de Qrcode.
 - [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project using Angular_Digimon](https://master--euphonious-chaja-55b1e0.netlify.app/) - Projeto feito em angular consumindo a API-Digimons.
