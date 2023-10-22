@@ -13,7 +13,7 @@
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 ## Projeto Laravel:
 - [Project get Api](https://github.com/reinaldoper/shooping-laravel) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
-## Alguns projetos realizados por mim:
+## Outros projetos:
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
 - [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
 - [Project conta-cashback](https://front-conta.vercel.app/)  - Projeto que adiciona valores de pagamentos, incluindo seus cashback, retorna extrato das transações.(ReactJs, Prisma, express, PostgreSQL, express, jest)
