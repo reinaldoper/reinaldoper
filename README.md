@@ -8,9 +8,12 @@
 
 ## Meu portfolio pessoal:
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
-## Alguns projetos realizados na Trybe:
+<details>
+  <summary><strong>## Alguns projetos realizados na Trybe:</strong></summary>
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas: React.js, javaScript, CSS, bootstrap, HTML..
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
+</details>
+
 ## Projeto Laravel:
 - [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
 ## Outros projetos:
