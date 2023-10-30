@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary><h2>Alguns projetos realizados na Dio.me:</h2></summary>
+  <summary><strong>Alguns projetos realizados na Dio.me:</strong></summary>
   
 ## Projeto Laravel:
 - [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
