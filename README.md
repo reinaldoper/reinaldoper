@@ -23,7 +23,7 @@
 ## Projeto Laravel:
 - [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
 
-## Projeto em Angula:
+## Projeto em Angular:
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular. 
 - [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project-Mini-Blog using angular](https://master--lively-puppy-aafe9d.netlify.app/) - Projeto blog da trilogia dos X-MEN.
