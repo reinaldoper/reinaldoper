@@ -12,7 +12,7 @@
   <summary><strong>Alguns projetos realizados na Trybe:</strong></summary>
   
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas:     React.js, javaScript, CSS, bootstrap, HTML..
-- [Trybe futebol clube](https://github.com/reinaldoper/trybe-futebol-clube/tree/main) - Projeto realizado em grupo, onde o back-end foi feito usando sequelize como ORM. Tecnologias: Sequelize, express, Jest, React.js, javaScript, CSS, bootstrap, HTML..
+- [Trybe futebol clube](https://github.com/reinaldoper/trybe-futebol-clube/tree/main) - Projeto realizado em grupo, onde o back-end foi feito usando sequelize como ORM. Tecnologias: Sequelize, docker, MySql, express, Jest, React.js, javaScript, CSS, bootstrap, HTML..
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca        por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 - [Projeto de perguntas](https://benevolent-liger-a7fc49.netlify.app/) Projeto realizado em grupo, onde foi abordado o uso do React e seus estados. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 - [Calculadora](https://benevolent-liger-a7fc49.netlify.app/) Calculadora onde foi abordado o uso do React e seus estados. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
