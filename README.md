@@ -5,6 +5,7 @@
 ### Olá, eu sou o Reinaldo. 👋
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
 - ✍🏼 Estudante de Project Manager in Google
+
 - [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
 
 ## Meu portfolio pessoal:
