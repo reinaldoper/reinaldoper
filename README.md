@@ -23,6 +23,7 @@
 - [Calculadora](https://benevolent-liger-a7fc49.netlify.app/) Calculadora onde foi abordado o uso do React e seus estados. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
 - [Todo-List](https://sage-baklava-b2bf1a.netlify.app/) Projeto com paginação de uma lista de tarefas. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
 - [Geo-localização](https://municipios-maps.netlify.app/) Projeto que faz pesquisa por municipios brasileiros através da geo-localização. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
+- [Api- busca CEP](https://meu-cep-app.netlify.app/) Projeto faz a busca do endereço através do CEP. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
   
 </details>
 
