@@ -7,6 +7,7 @@
 - ✍🏼 Estudante de Project Manager in Google
 
 - [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
+- [CERTIFICADO - ANGULAR](https://www.dio.me/certificate/4BEB2D2C/share) - Dio.me - Certification.
 
 ## Meu portfolio pessoal:
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
