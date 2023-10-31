@@ -10,7 +10,7 @@
 - [CERTIFICADO - ANGULAR](https://www.dio.me/certificate/4BEB2D2C/share) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
-- [CONHECENDO - AWS](https://hermes.digitalinnovation.one/certificates/550A0376.pdf) - Dio.me - Certification.
+- [CERTIFICADO - AWS](https://hermes.digitalinnovation.one/certificates/550A0376.pdf) - Dio.me - Certification.
 
 ## Meu portfolio pessoal:
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
