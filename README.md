@@ -21,6 +21,7 @@
 - [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca        por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 - [Projeto de perguntas](https://benevolent-liger-a7fc49.netlify.app/) Projeto realizado em grupo, onde foi abordado o uso do React e seus estados. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
 - [Calculadora](https://benevolent-liger-a7fc49.netlify.app/) Calculadora onde foi abordado o uso do React e seus estados. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
+- [Todo-List](https://sage-baklava-b2bf1a.netlify.app/) Projeto com paginação de uma lista de tarefas. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
   
 </details>
 
