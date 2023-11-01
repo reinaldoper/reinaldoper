@@ -24,6 +24,8 @@
 ## Meu portfolio pessoal:
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
 
+## Projetos de cursos imersivos:
+
 <details>
   <summary><strong>Alguns projetos realizados na Trybe:</strong></summary>
   
