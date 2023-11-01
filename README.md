@@ -18,6 +18,7 @@
 
 - [CERTIFICADO - AWS](https://hermes.digitalinnovation.one/certificates/550A0376.pdf) - Dio.me - Certification.
 - [CRIANDO CONTA](https://hermes.digitalinnovation.one/certificates/0649F775.pdf) - Dio.me - Certification.
+- [AWS Official Content](https://www.dio.me/certificate/EB15A9F6/share) - Dio.me - Certification.
   
 </details>
 
