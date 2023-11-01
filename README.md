@@ -25,6 +25,7 @@
 - [Geo-localização](https://municipios-maps.netlify.app/) Projeto que faz pesquisa por municipios brasileiros através da geo-localização. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
 - [Api- busca CEP](https://meu-cep-app.netlify.app/) Projeto faz a busca do endereço através do CEP. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
 - [Dados_Covid-19](https://super-sawine-84e189.netlify.app/) Projeto traz em gráfico dados da Covid-19 no Brasil. Tecnologias utilizadas: React.js, Chart.js, javaScript, hooks, CSS, HTML.
+- [Calculadora ReactJs](https://calculadora-minicientifica.netlify.app/) Mini calculadora científica. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
   
 </details>
 
