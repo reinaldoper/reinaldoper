@@ -4,6 +4,7 @@
 
 ### Olá, eu sou o Reinaldo. 👋
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
+
 ## ✍🏼 Certificados
 
 - [CERTIFICADO-GOOGLE](https://www.coursera.org/account/accomplishments/certificate/HSNTX7P8Z8NL) -Google - coursera
