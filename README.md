@@ -4,7 +4,8 @@
 
 ### Olá, eu sou o Reinaldo. 👋
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
-- ✍🏼 Estudante de Project Manager in Google
+- ✍🏼 Certificados de Project Manager in Google
+- [CERTIFICADO-GOOGLE](https://www.coursera.org/account/accomplishments/certificate/HSNTX7P8Z8NL) -Google - coursera
 
 - [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
 - [CERTIFICADO - ANGULAR](https://www.dio.me/certificate/4BEB2D2C/share) - Dio.me - Certification.
