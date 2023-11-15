@@ -5,13 +5,17 @@
 ### Olá, eu sou o Reinaldo. 👋
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
 
-## ✍🏼 Certificados
+<details>
+   <summary>✍🏼 Certificados</summary> 
 
 - [CERTIFICADO-GOOGLE](https://www.coursera.org/account/accomplishments/certificate/HSNTX7P8Z8NL) -Google - coursera
 - [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
 - [CERTIFICADO - ANGULAR](https://www.dio.me/certificate/4BEB2D2C/share) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
+
+   
+</details>
 
 ## Certificados AWS:
 
