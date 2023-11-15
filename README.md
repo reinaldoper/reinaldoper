@@ -17,8 +17,6 @@
    
 </details>
 
-## Certificados AWS:
-
 <details>
    <summary><strong>Certificados AWS Dio.me:</strong></summary>
 
