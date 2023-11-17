@@ -14,6 +14,7 @@
 - [CERTIFICADO - API-LARAVEL](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - FUNDAMENTOS CSS](https://www.dio.me/certificate/C7EA9BE2/share) - Dio.me - Certification.
+- [CERTIFICADO - FUNDAMENTOS HTML](https://www.dio.me/certificate/C47847C2/share) - Dio.me - Certification.
 
    
 </details>
