@@ -13,6 +13,7 @@
 - [CERTIFICADO - ANGULAR](https://www.dio.me/certificate/4BEB2D2C/share) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
+- [CERTIFICADO - FUNDAMENTOS CSS](https://www.dio.me/certificate/C7EA9BE2/share) - Dio.me - Certification.
 
    
 </details>
