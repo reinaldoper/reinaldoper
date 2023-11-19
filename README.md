@@ -15,6 +15,7 @@
 - [CERTIFICADO - PHP-EXPERIENCE](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - FUNDAMENTOS CSS](https://www.dio.me/certificate/C7EA9BE2/share) - Dio.me - Certification.
 - [CERTIFICADO - FUNDAMENTOS HTML](https://www.dio.me/certificate/C47847C2/share) - Dio.me - Certification.
+- [CERTIFICADO - ESTILIZAÇÃO CSS](https://hermes.digitalinnovation.one/certificates/98791810.pdf) - Dio.me - Certification.
 
    
 </details>
