@@ -13,7 +13,7 @@
 - [CERTIFICADO - ANGULAR](https://www.dio.me/certificate/4BEB2D2C/share) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://www.dio.me/certificate/17DDD196/share) - Dio.me - Certification.
-- [CERTIFICADO - FUNDAMENTOS CSS](https://www.dio.me/certificate/C7EA9BE2/share) - Dio.me - Certification.
+- [CERTIFICADO - FUNDAMENTOS CSS](https://hermes.digitalinnovation.one/certificates/C7EA9BE2.pdf?_gl=1*8dy5ok*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNDgxLjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - FUNDAMENTOS HTML](https://hermes.digitalinnovation.one/certificates/C47847C2.pdf?_gl=1*18dietn*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxMzc5LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ESTILIZAÇÃO CSS](https://hermes.digitalinnovation.one/certificates/98791810.pdf) - Dio.me - Certification.
 
