@@ -61,6 +61,7 @@
 - [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project-Mini-Blog using angular](https://master--lively-puppy-aafe9d.netlify.app/) - Projeto blog da trilogia dos X-MEN.
 - [Project using Angular_Digimon](https://master--euphonious-chaja-55b1e0.netlify.app/) - Projeto feito em angular consumindo a API-Digimons.
+- [Learning page - css](https://reinaldoper.github.io/trilha-css-desafio-01/) - Projeto - trilha do css.
 
 </details>
 
