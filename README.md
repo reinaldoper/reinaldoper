@@ -37,7 +37,7 @@
 </details>
 
 <details>
-   <summary><strong>Certificados AWS Dio.me:</strong></summary>
+   <summary><strong>✍🏼 Certificados AWS Dio.me:</strong></summary>
 
 - [CERTIFICADO - AWS](https://hermes.digitalinnovation.one/certificates/550A0376.pdf) - Dio.me - Certification.
 - [CRIANDO CONTA](https://hermes.digitalinnovation.one/certificates/0649F775.pdf) - Dio.me - Certification.
