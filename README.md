@@ -6,12 +6,17 @@
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
 
 <details>
-   <summary>✍🏼 Certificados</summary> 
-
-- [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/224C83ED.pdf?_gl=1*1bfhbnp*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDQyMTE3MS4zMDguMS4xNzAwNDMxNTU4LjM3LjAuMA..) - Dio.me - Certification.
+   <summary>✍🏼 Certificados Google</summary> 
+   
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/BARYTFJG3WBX) -Google - coursera - Fundamentos do gerenciamento de projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/HSNTX7P8Z8NL) -Google - coursera - Como executar um projeto.
-- [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
+   
+</details>
+
+<details>
+   <summary>✍🏼 Certificados Dio.me</summary> 
+
+- [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/224C83ED.pdf?_gl=1*1bfhbnp*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDQyMTE3MS4zMDguMS4xNzAwNDMxNTU4LjM3LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ANGULAR](https://hermes.digitalinnovation.one/certificates/4BEB2D2C.pdf?_gl=1*1rcljph*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNzE2LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://hermes.digitalinnovation.one/certificates/17DDD196.pdf?_gl=1*jgbz3y*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNjU2LjU5LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://hermes.digitalinnovation.one/certificates/17DDD196.pdf?_gl=1*m21j7r*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNTkxLjU5LjAuMA..) - Dio.me - Certification.
@@ -19,6 +24,14 @@
 - [CERTIFICADO - FUNDAMENTOS HTML](https://hermes.digitalinnovation.one/certificates/C47847C2.pdf?_gl=1*18dietn*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxMzc5LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ESTILIZAÇÃO CSS](https://hermes.digitalinnovation.one/certificates/98791810.pdf) - Dio.me - Certification.
 - [CERTIFICADO - PROJETO CSS](https://www.dio.me/certificate/23421447/share) - Dio.me - Certification.
+- [CERTIFICADO - PROJETO JS](https://www.dio.me/certificate/A59F3CCB/share) - Dio.me - Certification.
+   
+</details>
+
+<details>
+   <summary>✍🏼 Certificados Trybe</summary> 
+
+- [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
 
    
 </details>
