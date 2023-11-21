@@ -24,7 +24,8 @@
 - [CERTIFICADO - FUNDAMENTOS HTML](https://hermes.digitalinnovation.one/certificates/C47847C2.pdf?_gl=1*18dietn*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxMzc5LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ESTILIZAÇÃO CSS](https://hermes.digitalinnovation.one/certificates/98791810.pdf) - Dio.me - Certification.
 - [CERTIFICADO - PROJETO CSS](https://www.dio.me/certificate/23421447/share) - Dio.me - Certification.
-- [CERTIFICADO - PROJETO JS](https://www.dio.me/certificate/A59F3CCB/share) - Dio.me - Certification.
+- [CERTIFICADO - JS](https://www.dio.me/certificate/A59F3CCB/share) - Dio.me - Certification.
+- [CERTIFICADO - ARRAY-JS](https://www.dio.me/certificate/95C09E6F/share) - Dio.me - Certification.
    
 </details>
 
