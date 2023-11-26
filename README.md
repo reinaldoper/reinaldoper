@@ -81,7 +81,7 @@
 - [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
 
 ## Projetos javaScript:
-- [Projeto - Mario Bross](https://reinaldoper.github.io/game-mario/) - Projeto de game, utilizando conceitos de js puro.
+- [Projeto - Mario Bros](https://reinaldoper.github.io/game-mario/) - Projeto de game, utilizando conceitos de js puro.
 
 ## Projeto em Angular:
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular. 
