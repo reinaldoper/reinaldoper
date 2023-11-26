@@ -29,6 +29,8 @@
 - [CERTIFICADO - JS](https://www.dio.me/certificate/A59F3CCB/share) - Dio.me - Certification.
 - [CERTIFICADO - ARRAY-JS](https://www.dio.me/certificate/95C09E6F/share) - Dio.me - Certification.
 - [PENSAMENTO-COMPUTACIONAL](https://hermes.digitalinnovation.one/certificates/01413C88.pdf?_gl=1*cwm08x*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDkzNzg0OS4zMzEuMS4xNzAwOTM3ODYyLjQ3LjAuMA..) - Dio.me - Certification.
+- [PROTÒTIPOS- JS](https://hermes.digitalinnovation.one/certificates/2607E05A.pdf?_gl=1*19foyus*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDk2ODM5MS4zMzQuMS4xNzAwOTY4NDgzLjM3LjAuMA..) - Dio.me - Certification.
+
    
 </details>
 
