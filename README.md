@@ -82,6 +82,7 @@
 
 ## Projetos javaScript:
 - [Projeto - Mario Bros](https://reinaldoper.github.io/game-mario/) - Projeto de game, utilizando conceitos de js puro.
+- [Piano - simulator](https://reinaldoper.github.io/piano-js/) - Projeto - Simulador de piano.
 
 ## Projeto em Angular:
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular. 
