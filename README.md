@@ -6,7 +6,7 @@
 <h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
 
 <details>
-   <summary>✍🏼 Certificados Google</summary> 
+   <summary><strong>✍🏼 Certificados Google</strong></summary> 
 
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/R822MQB2LPP8) -Google - coursera - Como começar um projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/BARYTFJG3WBX) -Google - coursera - Fundamentos do gerenciamento de projeto.
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-   <summary>✍🏼 Certificados Dio.me</summary> 
+   <summary><strong>✍🏼 Certificados Dio.me</strong></summary> 
 
 - [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/224C83ED.pdf?_gl=1*1bfhbnp*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDQyMTE3MS4zMDguMS4xNzAwNDMxNTU4LjM3LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ANGULAR](https://hermes.digitalinnovation.one/certificates/4BEB2D2C.pdf?_gl=1*1rcljph*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNzE2LjYwLjAuMA..) - Dio.me - Certification.
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-   <summary>✍🏼 Certificados Trybe</summary> 
+   <summary><strong>✍🏼 Certificados Trybe</strong></summary> 
 
 - [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
 
