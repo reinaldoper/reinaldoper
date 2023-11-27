@@ -81,7 +81,7 @@
 ## Projeto Laravel:
 - [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
 
-## Projetos javaScript:
+## Projetos JOGOS javaScript:
 - [Projeto - Mario Bros](https://reinaldoper.github.io/game-mario/) - Projeto de game, utilizando conceitos de js puro.
 - [Piano - simulator](https://reinaldoper.github.io/piano-js/) - Projeto - Simulador de piano.
 
