@@ -84,13 +84,14 @@
 ## Projetos JOGOS javaScript:
 - [Projeto - Mario Bros](https://reinaldoper.github.io/game-mario/) - Projeto de game, utilizando conceitos de js puro.
 - [Piano - simulator](https://reinaldoper.github.io/piano-js/) - Projeto - Simulador de piano.
+- [Jogo - yu-giouh-game](https://reinaldoper.github.io/yu-giouh-game/) - Projeto - Jogo de cartas.
 
 ## Projeto em Angular:
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular. 
 - [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project-Mini-Blog using angular](https://master--lively-puppy-aafe9d.netlify.app/) - Projeto blog da trilogia dos X-MEN.
 - [Project using Angular_Digimon](https://master--euphonious-chaja-55b1e0.netlify.app/) - Projeto feito em angular consumindo a API-Digimons.
-- [Learning page - css](https://reinaldoper.github.io/trilha-css-desafio-01/) - Projeto - trilha do css.
+- [Learning page - css](https://reinaldoper.github.io/trilha-css-desafio-01) - Projeto - trilha do css.
 
 </details>
 
