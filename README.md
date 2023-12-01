@@ -98,6 +98,10 @@
 </details>
 
 ## Outros projetos:
+
+<details>
+   <summary><strong>Projetos individuais:</strong></summary>
+
 - [Memory game](https://reinaldoper.github.io/memory-game/) - Projeto de memorização de emojis. (javaScript, css, html).
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
 - [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
@@ -107,6 +111,9 @@
 - [Project-fullStack switch-books](https://github.com/stonefullstm/skambooks-project) - Projeto de trocas de livros entre usuários, com requisição via ISBN.
 - [Project front-end Drone](https://drone-feeder.netlify.app/) - Aplicação do front-end do projeto de back feito em Spring-Boot com java. Feito em ReactJs, usando estados nativos do React e também estado global com Redux, para rodar a API do back, clonar e rodar a partir deste link: `https://github.com/reinaldoper/drone-feeder`.
 - [Project FullStack](https://github.com/reinaldoper/conta-caixa) - Projeto de compras, gerenciamento de usuários, cadastro de cashback. (Docker, React, Prisma, Express, Jwt, tests).
+  
+</details>
+
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
 
 ## Minhas Skills:
