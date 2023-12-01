@@ -20,6 +20,7 @@
 
 - [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/224C83ED.pdf?_gl=1*1bfhbnp*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDQyMTE3MS4zMDguMS4xNzAwNDMxNTU4LjM3LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ANGULAR](https://hermes.digitalinnovation.one/certificates/4BEB2D2C.pdf?_gl=1*1rcljph*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNzE2LjYwLjAuMA..) - Dio.me - Certification.
+- [DESENVOLVIMNTO - JOGOS](https://hermes.digitalinnovation.one/certificates/4FC8E967.pdf?_gl=1*ph7l4q*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTQzNjUzOC4zNTUuMS4xNzAxNDM2Njc3LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://hermes.digitalinnovation.one/certificates/17DDD196.pdf?_gl=1*jgbz3y*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNjU2LjU5LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - PHP-EXPERIENCE](https://hermes.digitalinnovation.one/certificates/17DDD196.pdf?_gl=1*m21j7r*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNTkxLjU5LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - FUNDAMENTOS CSS](https://hermes.digitalinnovation.one/certificates/C7EA9BE2.pdf?_gl=1*8dy5ok*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNDgxLjYwLjAuMA..) - Dio.me - Certification.
