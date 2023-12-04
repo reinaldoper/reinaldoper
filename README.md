@@ -37,6 +37,7 @@
 - [PIANO - SIMULATOR](https://hermes.digitalinnovation.one/certificates/51EC06DE.pdf?_gl=1*9xqchj*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTExMDQ1NS4zNDEuMS4xNzAxMTIyMjI4LjYwLjAuMA..) - Dio.me - Certification.
 - [JOGO - CARTAS](https://hermes.digitalinnovation.one/certificates/4FC8E967.pdf?_gl=1*1grmd9e*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTI0NTkyMS4zNDcuMS4xNzAxMjQ5MjYyLjQxLjAuMA..) - Dio.me - Certification.
 - [REACT - TYPESCRIPT](https://hermes.digitalinnovation.one/certificates/A4FCAE4E.pdf?_gl=1*1bsu5bt*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTUxMTA0OS4zNjEuMS4xNzAxNTEyMTExLjYwLjAuMA..) - Dio.me - Certification.
+- [AVANÇADO - REACTJS](https://hermes.digitalinnovation.one/certificates/FF713C04.pdf?_gl=1*1bcjbam*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTcwOTA4NS4zNzAuMS4xNzAxNzEwNzk0LjU4LjAuMA..) - Dio.me - Certification.
 
 
 </details>
