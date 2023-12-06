@@ -39,6 +39,7 @@
 - [REACT - TYPESCRIPT](https://hermes.digitalinnovation.one/certificates/A4FCAE4E.pdf?_gl=1*1bsu5bt*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTUxMTA0OS4zNjEuMS4xNzAxNTEyMTExLjYwLjAuMA..) - Dio.me - Certification.
 - [AVANÇADO - REACTJS](https://hermes.digitalinnovation.one/certificates/FF713C04.pdf?_gl=1*1bcjbam*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTcwOTA4NS4zNzAuMS4xNzAxNzEwNzk0LjU4LjAuMA..) - Dio.me - Certification.
 - [JWT- TYPESCRIPT](https://hermes.digitalinnovation.one/certificates/C4B4828B.pdf?_gl=1*1dhgukt*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTg1MTQ1MS4zNzYuMS4xNzAxODUxNTkxLjYwLjAuMA..) - Dio.me - Certification.
+- [TypeScript - Fullstack - Developer](https://hermes.digitalinnovation.one/certificates/2798DA2E.pdf?_gl=1*xi8f9y*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTg1ODM2Ni4zNzcuMS4xNzAxODU4NTE3LjE0LjAuMA..) - Dio.me - Certification.
 
 
 </details>
