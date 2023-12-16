@@ -12,6 +12,7 @@
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/BARYTFJG3WBX) -Google - coursera - Fundamentos do gerenciamento de projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/HSNTX7P8Z8NL) -Google - coursera - Como executar um projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/JJSSLFMNEYPE) -Google - coursera - Como reunir tudo.
+- [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/SHSGTCP8AHRU) -Google - coursera - Gerenciamento de projetos Agile.
    
 </details>
 
