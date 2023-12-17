@@ -107,7 +107,7 @@
 <details>
    <summary><strong>Projetos individuais:</strong></summary>
 
-- [Project-Delivary](https://delivery-reinaldoper.vercel.app/) - Projeto de comprar de bebidas.
+- [Project-Delivary](https://delivery-reinaldoper.vercel.app/) - Projeto compras de bebidas.
 - [Memory game](https://reinaldoper.github.io/memory-game/) - Projeto de memorização de emojis. (javaScript, css, html).
 - [drone-feeder Java Project- Spring-Boot](https://github.com/reinaldoper/drone-feeder) - Projeto realizado utilizando Java, MySQL e Docker, gerenciamento das dependências com Maven.
 - [Project full-stack Blog](https://front-blog-post.vercel.app/) - Projeto realizado utilizando no back-end express, NodeJs, Prisma, JWT, hospedagem vercel com DB postgreaSql e no front-end ReactJs Vite.
