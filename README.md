@@ -9,7 +9,7 @@
    <summary><strong>👨‍🎓 Certificados Ingles</strong></summary> 
 
 - [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/224C83ED.pdf?_gl=1*1bfhbnp*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDQyMTE3MS4zMDguMS4xNzAwNDMxNTU4LjM3LjAuMA..) - Dio.me - Certification.
-- [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/4501732F.pdf?_gl=1*18k6q7r*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMzcxMjY5Ni40NDAuMS4xNzAzNzEzNjYxLjM5LjAuMA..) - Dio.me - Certification.
+- [CERTIFICADO_2 - INGLES-A1](https://hermes.digitalinnovation.one/certificates/4501732F.pdf?_gl=1*18k6q7r*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMzcxMjY5Ni40NDAuMS4xNzAzNzEzNjYxLjM5LjAuMA..) - Dio.me - Certification.
    
 </details>
 
@@ -27,7 +27,6 @@
 <details>
    <summary><strong>👨‍🎓 Certificados Dio.me</strong></summary> 
 
-- [CERTIFICADO - INGLES-A1](https://hermes.digitalinnovation.one/certificates/224C83ED.pdf?_gl=1*1bfhbnp*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDQyMTE3MS4zMDguMS4xNzAwNDMxNTU4LjM3LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ANGULAR](https://hermes.digitalinnovation.one/certificates/4BEB2D2C.pdf?_gl=1*1rcljph*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNzE2LjYwLjAuMA..) - Dio.me - Certification.
 - [DESENVOLVIMNTO - JOGOS](https://hermes.digitalinnovation.one/certificates/4FC8E967.pdf?_gl=1*ph7l4q*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTQzNjUzOC4zNTUuMS4xNzAxNDM2Njc3LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://hermes.digitalinnovation.one/certificates/17DDD196.pdf?_gl=1*jgbz3y*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNjU2LjU5LjAuMA..) - Dio.me - Certification.
