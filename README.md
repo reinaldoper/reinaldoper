@@ -14,6 +14,14 @@
 </details>
 
 <details>
+   <summary><strong>👨‍🎓 Certificados C#</strong></summary> 
+
+- [Herança-Polimorfismo](https://hermes.digitalinnovation.one/certificates/92C90278.pdf?_gl=1*10zd4b0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNTgyLjcuMC4w) - Dio.me - Certification.
+- [Abstração-Encapsulamento](https://hermes.digitalinnovation.one/certificates/CE821FCF.pdf?_gl=1*1wrzjd0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNjA5LjYwLjAuMA..) - Dio.me - Certification.
+   
+</details>
+
+<details>
    <summary><strong>👨‍🎓 Certificados Google</strong></summary> 
 
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/R822MQB2LPP8) -Google - coursera - Como começar um projeto.
