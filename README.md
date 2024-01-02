@@ -19,6 +19,7 @@
 - [Herança-Polimorfismo](https://hermes.digitalinnovation.one/certificates/92C90278.pdf?_gl=1*10zd4b0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNTgyLjcuMC4w) - Dio.me - Certification.
 - [Abstração-Encapsulamento](https://hermes.digitalinnovation.one/certificates/CE821FCF.pdf?_gl=1*1wrzjd0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNjA5LjYwLjAuMA..) - Dio.me - Certification.
 - [Classes abstratas-interfaces](https://hermes.digitalinnovation.one/certificates/E01DC6B7.pdf?_gl=1*96bc7x*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDE1MDY4My40NjcuMS4xNzA0MTU3MTQwLjU4LjAuMA..) - Dio.me - Certification.
+- [Testes unitários](https://hermes.digitalinnovation.one/certificates/2886631A.pdf?_gl=1*2vual9*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDIxMjk5NC40NzEuMS4xNzA0MjEzMDc3LjUzLjAuMA..) - Dio.me - Certification.
    
 </details>
 
