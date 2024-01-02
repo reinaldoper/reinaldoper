@@ -20,6 +20,7 @@
 - [Abstração-Encapsulamento](https://hermes.digitalinnovation.one/certificates/CE821FCF.pdf?_gl=1*1wrzjd0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNjA5LjYwLjAuMA..) - Dio.me - Certification.
 - [Classes abstratas-interfaces](https://hermes.digitalinnovation.one/certificates/E01DC6B7.pdf?_gl=1*96bc7x*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDE1MDY4My40NjcuMS4xNzA0MTU3MTQwLjU4LjAuMA..) - Dio.me - Certification.
 - [Testes unitários](https://hermes.digitalinnovation.one/certificates/2886631A.pdf?_gl=1*2vual9*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDIxMjk5NC40NzEuMS4xNzA0MjEzMDc3LjUzLjAuMA..) - Dio.me - Certification.
+- [Formação C#](https://hermes.digitalinnovation.one/certificates/EAF36581.pdf?_gl=1*yr8nis*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDIyNTQxNS40NzMuMS4xNzA0MjI5NDg2LjQ1LjAuMA..) - Dio.me - Certification.
    
 </details>
 
