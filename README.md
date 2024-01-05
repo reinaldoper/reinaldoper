@@ -1,6 +1,6 @@
 ## Minhas Skills:
-<img src="https://img.icons8.com/?size=80&id=KEhXVXcto0OF&format=png" alt="img" width="80" height="80"/>
-<img src="https://img.icons8.com/?size=80&id=CexFs1lac6J7&format=png" alt="img" width="80" height="80"/>
+<img src="https://img.icons8.com/?size=80&id=KEhXVXcto0OF&format=png" width="80" height="80"/>
+<img src="https://img.icons8.com/?size=80&id=CexFs1lac6J7&format=png" width="80" height="80"/>
 
 <h1 align="center">- 🔭 Mais sobre mim ...</h1>
 
