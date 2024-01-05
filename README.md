@@ -1,6 +1,7 @@
 
-<img src="https://image.shutterstock.com/image-vector/repository-icon-code-collaboration-git-260nw-2153445337.jpg" alt="img" width="150" height="150"/>
-<img src="https://image.shutterstock.com/image-vector/repository-icon-code-collaboration-git-260nw-2153445337.jpg" alt="img" width="150" height="150"/>
+<img src="https://image.shutterstock.com/image-vector/repository-icon-code-collaboration-git-260nw-2153445337.jpg" alt="img" width="80" height="80"/>
+<img src="https://image.shutterstock.com/image-vector/repository-icon-code-collaboration-git-260nw-2153445337.jpg" alt="img" width="80" height="80"/>
+
 <h1 align="center">- 🔭 Mais sobre mim ...</h1>
 
 ### Olá, eu sou o Reinaldo. 🚀
