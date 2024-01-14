@@ -37,6 +37,8 @@
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/HSNTX7P8Z8NL) -Google - coursera - Como executar um projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/JJSSLFMNEYPE) -Google - coursera - Como reunir tudo.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/SHSGTCP8AHRU) -Google - coursera - Gerenciamento de projetos Agile.
+- [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/specialization/certificate/PMRYNLM2G6DM) -Google - coursera - Project management.
+- [CERTIFICADO - GOOGLE](https://www.credly.com/badges/30e39a55-99cd-4a9f-a59c-10790a589384/linked_in_profile) -Google - coursera - Gerenciamento de Projetos do Google.
    
 </details>
 
