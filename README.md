@@ -23,6 +23,8 @@
 
 - [CERTIFICADO - ChatGPT](https://hermes.digitalinnovation.one/certificates/90499CE3.pdf?_gl=1*rlktp0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNTMzNjYxMi41MDIuMS4xNzA1MzUxMjU1LjYwLjAuMA..) - Dio.me - Certification.
 - [Uso para Desenvolvedores](https://hermes.digitalinnovation.one/certificates/9EEEA735.pdf?_gl=1*1vifqav*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNTQ0MTkyNi41MDYuMS4xNzA1NDQyMTAwLjQwLjAuMA..) - Dio.me - Certification.
+- [Chat-gpt - Devs](https://hermes.digitalinnovation.one/certificates/524A26A0.pdf?_gl=1*xtag5i*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNTY2NjY0OS41MTguMS4xNzA1NjY3OTEzLjI1LjAuMA..) - Dio.me - Certification.
+
    
 </details>
 
