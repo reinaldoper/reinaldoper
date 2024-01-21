@@ -59,6 +59,8 @@
 ## Para saber todos os detalhes da minha trilha na Trybe:
 - [Trybe](https://github.com/reinaldoper/repositorys-trybe-certifications) - Aqui você ficará por dentro de todas as minhas conquistas e certificações Trybe.
 
+---
+
 ## Para saber todos os detalhes de outros projetos:
 - [Projetos](https://github.com/reinaldoper/repositorys-my-contents) - Aqui você ficará por dentro de alguns projetos particulares.
 
