@@ -7,21 +7,21 @@
 ---
 
 <details>
-   <summary><h1 align="center">- 🔭 Mais sobre mim ...</h1></summary> 
+   <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
 
-E aí, galera! 👋 Meu nome é Reinaldo, e eu sou daqueles que vive e respira código. 🚀 Formei-me em Engenharia de Software pela Unicesumar e desde então venho trilhando meu caminho no fascinante mundo da tecnologia.
-
-Com um amor de longa data por linguagens de programação, eu sou aquele cara que acredita que o código bem escrito é uma forma de arte. Seja Java, Python, ou até mesmo algumas coisas mais exóticas, estou sempre pronto para encarar novos desafios e aprender algo novo.
-
-Tenho uma queda especial por arquitetura de sistemas. Adoro pensar em como encaixar todas as peças do quebra-cabeça e criar algo que não apenas funcione, mas que seja elegante e eficiente.
-
-Dentro desse universo, não tem como escapar dos bancos de dados, certo? SQL é como uma segunda língua para mim, e experimentar com diferentes tipos de bases de dados é sempre divertido.
-
-No dia a dia, sou adepto das metodologias ágeis. Já participei de sprints, reuniões de retrospectiva, e sou um fiel defensor do poder de um bom quadro Kanban.
-
-Ah, e trabalho em equipe? É comigo mesmo. Já enfrentei projetos desafiadores, dividi responsabilidades e aprendi a lidar com as mais diversas personalidades. Afinal, a colaboração é a chave para o sucesso, não é mesmo?
-
-Se você estiver procurando alguém que combina paixão por código, habilidades em engenharia de software, e um toque de criatividade, então você está no lugar certo. Vamos construir algo incrível juntos! 💻✨
+   E aí, galera! 👋 Meu nome é Reinaldo, e eu sou daqueles que vive e respira código. 🚀 Formei-me em Engenharia de Software pela Unicesumar e desde então venho trilhando meu caminho no fascinante mundo da tecnologia.
+   
+   Com um amor de longa data por linguagens de programação, eu sou aquele cara que acredita que o código bem escrito é uma forma de arte. Seja Java, Python, ou até mesmo algumas coisas mais exóticas, estou sempre pronto para encarar novos    desafios e aprender algo novo.
+   
+   Tenho uma queda especial por arquitetura de sistemas. Adoro pensar em como encaixar todas as peças do quebra-cabeça e criar algo que não apenas funcione, mas que seja elegante e eficiente.
+   
+   Dentro desse universo, não tem como escapar dos bancos de dados, certo? SQL é como uma segunda língua para mim, e experimentar com diferentes tipos de bases de dados é sempre divertido.
+   
+   No dia a dia, sou adepto das metodologias ágeis. Já participei de sprints, reuniões de retrospectiva, e sou um fiel defensor do poder de um bom quadro Kanban.
+   
+   Ah, e trabalho em equipe? É comigo mesmo. Já enfrentei projetos desafiadores, dividi responsabilidades e aprendi a lidar com as mais diversas personalidades. Afinal, a colaboração é a chave para o sucesso, não é mesmo?
+   
+   Se você estiver procurando alguém que combina paixão por código, habilidades em engenharia de software, e um toque de criatividade, então você está no lugar certo. Vamos construir algo incrível juntos! 💻✨
    
 </details>
 
