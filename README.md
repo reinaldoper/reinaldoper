@@ -13,7 +13,7 @@
    
    Com um amor de longa data por linguagens de programação, eu sou aquele cara que acredita que o código bem escrito é uma forma de arte. Seja Java, Python, ou até mesmo algumas coisas mais exóticas, estou sempre pronto para encarar novos    desafios e aprender algo novo.
    
-   Tenho uma queda especial por arquitetura de sistemas. Adoro pensar em como encaixar todas as peças do quebra-cabeça e criar algo que não apenas funcione, mas que seja elegante e eficiente.
+   Tenho uma queda especial por linguagens de programação que trabalham usando SPA. Adoro pensar em como encaixar todas as peças do quebra-cabeça e criar algo que não apenas funcione, mas que seja elegante e eficiente.
    
    Dentro desse universo, não tem como escapar dos bancos de dados, certo? SQL é como uma segunda língua para mim, e experimentar com diferentes tipos de bases de dados é sempre divertido.
    
