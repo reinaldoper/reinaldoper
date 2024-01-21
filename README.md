@@ -31,17 +31,17 @@
 ---
 
 ## Meu portfolio pessoal:
-- [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
+- [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
 
 ---
 
 ## Para saber todos os detalhes da minha trilha na DIO.ME:
-- [Dio.me](https://github.com/reinaldoper/repositorys-dio.me)  Aqui você ficará por dentro de todas as minhas conquistas e certificações Dio.me.
+- [Dio.me](https://github.com/reinaldoper/repositorys-dio.me) - Aqui você ficará por dentro de todas as minhas conquistas e certificações Dio.me.
 
 ---
 
 ## Para saber todos os detalhes da minha trilha na Trybe:
-- [Trybe](https://github.com/reinaldoper/repositorys-trybe-certifications)  Aqui você ficará por dentro de todas as minhas conquistas e certificações Trybe.
+- [Trybe](https://github.com/reinaldoper/repositorys-trybe-certifications) - Aqui você ficará por dentro de todas as minhas conquistas e certificações Trybe.
 
 ## Outros projetos:
 
