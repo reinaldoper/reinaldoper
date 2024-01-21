@@ -10,7 +10,7 @@
 <details>
    <summary><strong>🚀 Um pouco mais sobre mim...</strong></summary> 
 
-E aí, galera! 👋 Meu nome é [Seu Nome], e eu sou daqueles que vive e respira código. 🚀 Formei-me em Engenharia de Software pela Unicesumar e desde então venho trilhando meu caminho no fascinante mundo da tecnologia.
+E aí, galera! 👋 Meu nome é Reinaldo, e eu sou daqueles que vive e respira código. 🚀 Formei-me em Engenharia de Software pela Unicesumar e desde então venho trilhando meu caminho no fascinante mundo da tecnologia.
 
 Com um amor de longa data por linguagens de programação, eu sou aquele cara que acredita que o código bem escrito é uma forma de arte. Seja Java, Python, ou até mesmo algumas coisas mais exóticas, estou sempre pronto para encarar novos desafios e aprender algo novo.
 
