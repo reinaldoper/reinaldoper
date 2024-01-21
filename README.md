@@ -26,8 +26,6 @@ Se você estiver procurando alguém que combina paixão por código, habilidades
    
 </details>
 
-### Olá, eu sou o Reinaldo. 🚀
-<h2>Desenvolvedor web, front-end, back-end, full-stack.</h2>
 
 <details>
    <summary><strong>👨‍🎓 Certificados Ingles</strong></summary> 
