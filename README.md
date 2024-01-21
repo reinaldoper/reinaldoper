@@ -18,8 +18,7 @@
    
 </details>
 
-<details>
-   <summary><strong>👨‍🎓 Certificados Google</strong></summary> 
+## 👨‍🎓 Certificados Google
 
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/R822MQB2LPP8) -Google - coursera - Como começar um projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/BARYTFJG3WBX) -Google - coursera - Fundamentos do gerenciamento de projeto.
@@ -28,38 +27,21 @@
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/SHSGTCP8AHRU) -Google - coursera - Gerenciamento de projetos Agile.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/specialization/certificate/PMRYNLM2G6DM) -Google - coursera - Project management.
 - [CERTIFICADO - GOOGLE](https://www.credly.com/badges/30e39a55-99cd-4a9f-a59c-10790a589384/linked_in_profile) -Google - coursera - Gerenciamento de Projetos do Google.
-   
-</details>
 
-
-<details>
-   <summary><strong>👨‍🎓 Certificados Trybe</strong></summary> 
-
-- [CERTIFICADOS - TRYBE](https://www.credential.net/profile/reinaldopereiradossantos297178/wallet) - Trybe - Certifications.
-
-   
-</details>
+---
 
 ## Meu portfolio pessoal:
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página oficial.
 
-## Para saber todos os detalhes da minha trilha na DIO.ME:
-- [Dio.me](https://github.com/reinaldoper/repositorys-dio.me) Aqui você ficará por dentro de todas as minhas conquistas e certificações Dio.me.
+---
 
-<details>
-  <summary><strong>Alguns projetos realizados na Trybe:</strong></summary>
-  
-- [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas:     React.js, javaScript, CSS, bootstrap, HTML..
-- [Trybe futebol clube](https://github.com/reinaldoper/trybe-futebol-clube/tree/main) - Projeto realizado em grupo, onde o back-end foi feito usando sequelize como ORM. Tecnologias: Sequelize, docker, MySql, express, Jest, React.js, javaScript, CSS, bootstrap, HTML..
-- [Tcc FrontEnd](https://effortless-jelly-2a6292.netlify.app/) ✍🏼 - Mais um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula um aplicativo de receita, onde o usuário busca        por bebidas ou alimentos. Tecnologias utilizadas: React.js, javaScript, Redux, hooks, CSS, bootstrap, HTML.
-- [Quizz](https://benevolent-liger-a7fc49.netlify.app/) Projeto feito em grupo, usando API de perguntas e respostas. Tecnologias utilizadas: React.js, javaScript, hooks, Redux, CSS, HTML.
-- [Todo-List](https://sage-baklava-b2bf1a.netlify.app/) Projeto com paginação de uma lista de tarefas. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
-- [Geo-localização](https://municipios-maps.netlify.app/) Projeto que faz pesquisa por municipios brasileiros através da geo-localização. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
-- [Api- busca CEP](https://meu-cep-app.netlify.app/) Projeto faz a busca do endereço através do CEP. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
-- [Dados_Covid-19](https://super-sawine-84e189.netlify.app/) Projeto traz em gráfico dados da Covid-19 no Brasil. Tecnologias utilizadas: React.js, Chart.js, javaScript, hooks, CSS, HTML.
-- [Calculadora ReactJs](https://calculadora-minicientifica.netlify.app/) Mini calculadora científica. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
-  
-</details>
+## Para saber todos os detalhes da minha trilha na DIO.ME:
+- [Dio.me](https://github.com/reinaldoper/repositorys-dio.me)  Aqui você ficará por dentro de todas as minhas conquistas e certificações Dio.me.
+
+---
+
+## Para saber todos os detalhes da minha trilha na Trybe:
+- [Trybe](https://github.com/reinaldoper/repositorys-trybe-certifications)  Aqui você ficará por dentro de todas as minhas conquistas e certificações Trybe.
 
 ## Outros projetos:
 
