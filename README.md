@@ -1,8 +1,5 @@
 
-<div align="center">
-   <img src="https://img.icons8.com/?size=80&id=KEhXVXcto0OF&format=png" width="100" height="100"/>
-   <img style="margin-left: 30px;" src="https://img.icons8.com/?size=80&id=CexFs1lac6J7&format=png" width="100" height="100"/>
-</div>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/RQt6" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 ---
 
