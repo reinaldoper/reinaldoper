@@ -45,6 +45,7 @@
 ---
 
 ## Meu portfolio pessoal:
+- [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
 
 ---
