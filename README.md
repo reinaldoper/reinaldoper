@@ -32,7 +32,10 @@
    
 </details>
 
-## 👨‍🎓 Certificados Google
+---
+
+<details>
+   <summary><strong>👨‍🎓 Certificados Google</strong></summary> 
 
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/R822MQB2LPP8) -Google - coursera - Como começar um projeto.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/BARYTFJG3WBX) -Google - coursera - Fundamentos do gerenciamento de projeto.
@@ -41,6 +44,8 @@
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/certificate/SHSGTCP8AHRU) -Google - coursera - Gerenciamento de projetos Agile.
 - [CERTIFICADO - GOOGLE](https://www.coursera.org/account/accomplishments/specialization/certificate/PMRYNLM2G6DM) -Google - coursera - Project management.
 - [CERTIFICADO - GOOGLE](https://www.credly.com/badges/30e39a55-99cd-4a9f-a59c-10790a589384/linked_in_profile) -Google - coursera - Gerenciamento de Projetos do Google.
+   
+</details>
 
 ---
 
