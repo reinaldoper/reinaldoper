@@ -51,7 +51,7 @@
 ---
 
 ## Para saber todos os detalhes da minha trilha na DIO.ME:
-- [Dio.me](https://github.com/reinaldoper/repositorys-dio.me) - Aqui você ficará por dentro de todos os meus projetos e certificações Dio.me.
+- [!Dio.me](https://github.com/reinaldoper/repositorys-dio.me) - Aqui você ficará por dentro de todos os meus projetos e certificações Dio.me.
 
 ---
 
