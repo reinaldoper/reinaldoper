@@ -19,7 +19,7 @@
    
    Ah, e trabalho em equipe? Já enfrentei projetos desafiadores, dividi responsabilidades e aprendi a lidar com as mais diversas personalidades. Afinal, a colaboração é a chave para o sucesso.
    
-   Se você estiver procurando alguém que combina paixão por código, habilidades em engenharia de software, e um toque de criatividade, então você está no lugar certo. Vamos construir algo incrível juntos! 💻✨
+   Se você estiver procurando alguém que combina paixão por código, habilidades no front-end ou back-end, e um toque de criatividade, então você está no lugar certo. Vamos construir algo incrível juntos! 💻✨
    
 </details>
 
