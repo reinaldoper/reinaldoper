@@ -50,7 +50,7 @@
 ---
 
 ## Meu portfolio pessoal:
-- [Projeto-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
+- [PROJECT-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
 - [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
 
