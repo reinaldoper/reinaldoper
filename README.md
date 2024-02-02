@@ -51,6 +51,11 @@
 
 ## Meu portfolio pessoal:
 - [PROJECT-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
+  
+ - `Projeto feito com nodeJs e usando ORM Prisma, express e typeScript no back-end`
+
+ - `Projeto feito com React vite e typeScript no front-end`
+   
 - [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
 
