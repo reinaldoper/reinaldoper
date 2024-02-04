@@ -58,7 +58,7 @@
    
 - [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
-- [Pokedex-Angular]("https://master--subtle-belekoy-eacccf.netlify.app/") - Pokedex feito em angular.
+- [Pokedex-angular](https://master--subtle-belekoy-eacccf.netlify.app/) - Pokedex.
 
 ---
 
