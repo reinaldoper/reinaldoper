@@ -57,8 +57,8 @@
  - `Projeto feito com React vite e typeScript no front-end`
    
 - [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
-- [Pokedex-Angular]("https://master--subtle-belekoy-eacccf.netlify.app/") - Pokedex feito em angular.
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
+- [Pokedex-Angular]("https://master--subtle-belekoy-eacccf.netlify.app/") - Pokedex feito em angular.
 
 ---
 
