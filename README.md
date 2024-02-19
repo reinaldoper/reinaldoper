@@ -17,7 +17,7 @@ Dentro desse vasto universo, a abordagem aos bancos de dados, seja SQL ou NoSQL,
 
 No âmbito profissional, adoto as metodologias ágeis em meu cotidiano.
 
-Além disso, em relação ao trabalho em equipe, já enfrenteiprojetos desafiadores, compartilhei responsabilidades e desenvolvi habilidades para lidar com as mais diversas personalidades. Afinal, a colaboração é a peça-chave para o sucesso.
+Além disso, em relação ao trabalho em equipe, já enfrentei projetos desafiadores, compartilhei responsabilidades e desenvolvi habilidades para lidar com as mais diversas personalidades. Afinal, a colaboração é a peça-chave para o sucesso.
 
 Se você está em busca de alguém que combine paixão por código, competências tanto no front-end quanto no back-end, e um toque de criatividade, você está no lugar certo. Estou entusiasmado para construirmos algo extraordinário juntos! 💻✨
    
