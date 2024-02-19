@@ -7,19 +7,19 @@
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
 
-   E aí, galera! 👋 Meu nome é Reinaldo, e eu sou daqueles que vive e respira código. 🚀 Então venho trilhando meu caminho no fascinante mundo da tecnologia.
-   
-   Com um amor de longa data por linguagens de programação, eu sou aquele cara que acredita que o código bem escrito é uma forma de arte. Seja Java, Python, javaScript, ReactJs, Angular, etc, estou sempre pronto para encarar novos desafios e aprender algo novo.
-   
-   Tenho uma queda especial por linguagens de programação que trabalham usando SPA. Adoro pensar em como encaixar todas as peças do quebra-cabeça e criar algo que não apenas funcione, mas que seja elegante e eficiente.
-   
-   Dentro desse universo, não tem como escapar dos bancos de dados, certo? Seja SQL ou NoSql e experimentar com diferentes tipos de bases de dados.
-   
-   No dia a dia, sou adepto das metodologias ágeis.
-   
-   Ah, e trabalho em equipe? Já enfrentei projetos desafiadores, dividi responsabilidades e aprendi a lidar com as mais diversas personalidades. Afinal, a colaboração é a chave para o sucesso.
-   
-   Se você estiver procurando alguém que combina paixão por código, habilidades no front-end ou back-end, e um toque de criatividade, então você está no lugar certo. Vamos construir algo incrível juntos! 💻✨
+Olá, pessoal! 👋 Meu nome é Reinaldo, e sou um entusiasta dedicado ao universo da programação. 🚀 Tenho percorrido uma trajetória consistente no fascinante mundo da tecnologia.
+
+Com uma afinidade de longa data por diversas linguagens de programação, considero o código bem escrito como uma manifestação artística. Seja em Java, Python, JavaScript, ReactJs, Angular, entre outras, estou sempre pronto para enfrentar novos desafios e adquirir novos conhecimentos.
+
+Possuo uma predileção especial por linguagens de programação que operam utilizando Single Page Applications (SPAs). Desfruto da oportunidade de conceber como todas as peças do quebra-cabeça se encaixam, visando criar soluções não apenas funcionais, mas também elegantes e eficientes.
+
+Dentro desse vasto universo, a abordagem aos bancos de dados, seja SQL ou NoSQL, é incontornável. Tenho experiência em experimentar com diferentes tipos de bases de dados.
+
+No âmbito profissional, adoto as metodologias ágeis em meu cotidiano.
+
+Além disso, em relação ao trabalho em equipe, já enfrenteiprojetos desafiadores, compartilhei responsabilidades e desenvolvi habilidades para lidar com as mais diversas personalidades. Afinal, a colaboração é a peça-chave para o sucesso.
+
+Se você está em busca de alguém que combine paixão por código, competências tanto no front-end quanto no back-end, e um toque de criatividade, você está no lugar certo. Estou entusiasmado para construirmos algo extraordinário juntos! 💻✨
    
 </details>
 
