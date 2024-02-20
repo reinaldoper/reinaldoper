@@ -50,11 +50,12 @@ Se você está em busca de alguém que combine paixão por código, competência
 ---
 
 ## Meu portfolio pessoal:
-- [PROJECT-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
+- [Basic-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
   
- - `Projeto feito com nodeJs e usando ORM Prisma, express e typeScript no back-end`
-
- - `Projeto feito com React vite e typeScript no front-end`
+```shell
+ Projeto feito com nodeJs e usando ORM Prisma, express e typeScript no back-end
+ e no front-end feito com React vite e typeScript
+```
    
 - [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
 - [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
