@@ -34,6 +34,11 @@ Se você está em busca de alguém que combine paixão por código, competência
 
 ---
 
+## Certificado IAgenerativa AWS
+[AWS](https://www.betrybe.com/badges/29C54B22517A)
+
+---
+
 <details>
    <summary><strong>👨‍🎓 Certificados Google</strong></summary> 
 
