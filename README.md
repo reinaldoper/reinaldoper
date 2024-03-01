@@ -55,6 +55,7 @@ Se você está em busca de alguém que combine paixão por código, competência
 ---
 
 ## Meu portfolio pessoal:
+- [TMDB-Movies](https://movies-project-gamma.vercel.app/) - Projeto que usa a API TMDB de fimes.
 - [Basic-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
   
 ```shell
