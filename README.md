@@ -22,7 +22,6 @@ Além disso, em relação ao trabalho em equipe, já enfrentei projetos desafiad
 Se você está em busca de alguém que combine paixão por código, competências tanto no front-end quanto no back-end, e um toque de criatividade, você está no lugar certo. Estou entusiasmado para construirmos algo extraordinário juntos! 💻✨
    
 </details>
----
 
 
 ## Page
