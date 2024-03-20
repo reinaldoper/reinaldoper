@@ -7,7 +7,7 @@
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
 
-Me chamo Reinaldo e sou um desenvolvedor júnior entusiasta do mundo da programação. Venho desenvolvendo minha jornada nesse fascinante campo da tecnologia.
+Me chamo Reinaldo e sou um desenvolvedor em busca de transição de carreira, entusiasta do mundo da programação. Venho desenvolvendo minha jornada nesse fascinante campo da tecnologia.
 
 Com uma familiaridade de longa data em diversas linguagens de programação, considero a escrita de código limpo como uma habilidade essencial. Esteja trabalhando em Java, Python, JavaScript, ReactJs, Angular, entre outras, estou constantemente pronto para enfrentar novos desafios e expandir meu conhecimento.
 
