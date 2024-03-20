@@ -24,7 +24,7 @@ Se você está em busca de alguém que una paixão por programação, habilidade
 </details>
 
 
-## Page oficial:
+## Página oficial:
 - [Page](https://main--fanciful-syrniki-596a36.netlify.app/)
 
 ---
