@@ -20,6 +20,24 @@ No ambiente profissional, adoto metodologias ágeis em minha rotina diária.
 Além disso, em termos de trabalho em equipe, já participei de projetos desafiadores, compartilhando responsabilidades e desenvolvendo habilidades para interagir com uma variedade de personalidades. A colaboração é fundamental para o sucesso.
 
 Se você está em busca de alguém que una paixão por programação, habilidades tanto front-end quanto back-end, e um toque de criatividade, você está no lugar certo. Estou ansioso para trabalharmos juntos e construirmos algo extraordinário!
+
+---
+
+English:
+
+My name is Reinaldo and I am a developer looking for a career transition, enthusiastic about the world of programming. I have been developing my journey in this fascinating field of technology.
+
+With a long-standing familiarity with several programming languages, I consider writing clean code to be an essential skill. Whether working in Java, Python, JavaScript, ReactJs, Angular, among others, I am constantly ready to face new challenges and expand my knowledge.
+
+I have a particular inclination towards programming languages ​​that are used for Single Page Applications (SPAs). I like exploring how each component relates to create functional, elegant and efficient solutions.
+
+Within this broad field, dealing with databases, whether SQL or NoSQL, is inevitable. I have experience working with different types of databases.
+
+In the professional environment, I adopt agile methodologies in my daily routine.
+
+Furthermore, in terms of teamwork, I have participated in challenging projects, sharing responsibilities and developing skills to interact with a variety of personalities. Collaboration is fundamental to success.
+
+If you are looking for someone who combines a passion for programming, both front-end and back-end skills, and a touch of creativity, you are in the right place. I look forward to working together and building something extraordinary!
    
 </details>
 
@@ -59,7 +77,7 @@ Se você está em busca de alguém que una paixão por programação, habilidade
 
 ---
 
-## Meu portfolio pessoal:
+## Alguns projetos meus. (some projects of my authorship):
 - [TMDB-Movies](https://movies-project-gamma.vercel.app/) - Projeto que usa a API TMDB de fimes.
 - [Basic-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
   
