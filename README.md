@@ -9,9 +9,7 @@
 
 Me chamo Reinaldo e sou um desenvolvedor em busca de transição de carreira, entusiasta do mundo da programação. Venho desenvolvendo minha jornada nesse fascinante campo da tecnologia.
 
-Com uma familiaridade de longa data em diversas linguagens de programação, considero a escrita de código limpo como uma habilidade essencial. Esteja trabalhando em Java, Python, JavaScript, ReactJs, Angular, entre outras, estou constantemente pronto para enfrentar novos desafios e expandir meu conhecimento.
-
-Além disso, em termos de trabalho em equipe, já participei de projetos desafiadores, compartilhando responsabilidades e desenvolvendo habilidades para interagir com uma variedade de personalidades. A colaboração é fundamental para o sucesso.
+Tenho como objetivo desenvolver aplicações em front-end e back-end para tornar a vida das pessoas e empresas mais ágeis e gerando valor.
 
 Se você está em busca de alguém que una paixão por programação, habilidades tanto front-end quanto back-end, e um toque de criatividade, você está no lugar certo. Estou ansioso para trabalharmos juntos e construirmos algo extraordinário!
 
@@ -21,9 +19,7 @@ English:
 
 My name is Reinaldo and I am a developer looking for a career transition, enthusiastic about the world of programming. I have been developing my journey in this fascinating field of technology.
 
-With a long-standing familiarity with several programming languages, I consider writing clean code to be an essential skill. Whether working in Java, Python, JavaScript, ReactJs, Angular, among others, I am constantly ready to face new challenges and expand my knowledge.
-
-Furthermore, in terms of teamwork, I have participated in challenging projects, sharing responsibilities and developing skills to interact with a variety of personalities. Collaboration is fundamental to success.
+My goal is to develop front-end and back-end applications to make the lives of people and companies more agile and generating value.
 
 If you are looking for someone who combines a passion for programming, both front-end and back-end skills, and a touch of creativity, you are in the right place. I look forward to working together and building something extraordinary!
    
