@@ -5,7 +5,7 @@
 ---
 
 
-- Atualmente sou embaixador na [Dio.me](https://www.dio.me/)
+- Atualmente faço prte da 7° turma de embaixadores na [Dio.me](https://www.dio.me/)
 
 
 <details>
