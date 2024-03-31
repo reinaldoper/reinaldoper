@@ -5,7 +5,7 @@
 ---
 
 
--Atualmente sou embaixador na [Dio.me](https://www.dio.me/)
+- Atualmente sou embaixador na [Dio.me](https://www.dio.me/)
 
 
 <details>
