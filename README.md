@@ -4,6 +4,10 @@
 
 ---
 
+
+-Atualmente sou embaixador na [Dio.me](https://www.dio.me/)
+
+
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
 
