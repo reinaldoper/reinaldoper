@@ -5,11 +5,6 @@
 ---
 
 - Projeto dev-na-pratica-da-Trybe [dev-na-pratica](https://dev-na-pratica-01-ten.vercel.app/)
-
-
-`Projeto feito usando nextJs para usar como base pela Trybe para os estudantes em destaque do mês`
-
-
 - Atualmente faço parte da 7° turma de embaixadores na [Dio.me](https://www.dio.me/)
 - Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)
 
