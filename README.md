@@ -11,7 +11,7 @@
 
 
 - Atualmente faço parte da 7° turma de embaixadores na [Dio.me](https://www.dio.me/)
-
+- Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)
 
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
