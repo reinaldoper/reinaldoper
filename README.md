@@ -7,6 +7,7 @@
 - Projeto dev-na-pratica-da-Trybe [dev-na-pratica](https://dev-na-pratica-01-ten.vercel.app/)
 - Atualmente faço parte da 7° turma de embaixadores na [Dio.me](https://www.dio.me/)
 - Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)
+- [Basic-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(NodeJs, React-vite, jest, express, typeScript).
 
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
@@ -68,7 +69,6 @@ If you are looking for someone who combines a passion for programming, both fron
 
 ## Alguns projetos meus. (some projects of my authorship):
 - [TMDB-Movies](https://movies-project-gamma.vercel.app/) - Projeto que usa a API TMDB de fimes.
-- [Basic-School](https://school-basic-reinaldo.netlify.app/) - Projeto escolar full-stack(em construção).
   
 ```shell
  Projeto feito com nodeJs e usando ORM Prisma, express e typeScript no back-end
