@@ -47,7 +47,7 @@ If you are looking for someone who combines a passion for programming, both fron
 ---
 
 ## Certificado IAgenerativa AWS
-[AWS](https://www.betrybe.com/badges/29C54B22517A)
+- [AWS](https://www.betrybe.com/badges/29C54B22517A)
 
 ---
 
