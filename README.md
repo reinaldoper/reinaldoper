@@ -4,9 +4,16 @@
 
 ---
 
+<h1>
+    Projeto open-source.
+</h1>
+
+- Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)
+
+---
+
 - Projeto dev-na-pratica-da-Trybe [dev-na-pratica](https://dev-na-pratica-01-ten.vercel.app/)
 - Atualmente faço parte da 7° turma de embaixadores na [Dio.me](https://www.dio.me/)
-- Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)
 - Projeto escolar full-stack(NodeJs, React-vite, jest, express, typeScript)[Basic-School](https://school-basic-reinaldo.netlify.app/) 
 
 <details>
