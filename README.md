@@ -80,7 +80,6 @@ If you are looking for someone who combines a passion for programming, both fron
 ```
    
 - [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
-- [Portfolio](https://poetic-klepon-3718ce.netlify.app/) - Página pessoal.
 - [Pokedex-angular](https://master--subtle-belekoy-eacccf.netlify.app/) - Pokedex.
 
 ---
