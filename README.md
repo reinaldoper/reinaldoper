@@ -8,7 +8,7 @@
     Open-source.
 </h1>
 
-**Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)**
+- **Atualmente contribuo nos projetos open-source da [Lexart](https://lexartlabs.com/)**
 
 ---
 
