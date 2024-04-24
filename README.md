@@ -38,10 +38,6 @@ If you are looking for someone who combines a passion for programming, both fron
    
 </details>
 
-
-## Página oficial:
-- [Page](https://main--fanciful-syrniki-596a36.netlify.app/)
-
 ---
 
 <details>
