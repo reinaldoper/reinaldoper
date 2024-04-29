@@ -14,6 +14,7 @@
 
 - Projeto dev-na-pratica-da-Trybe [dev-na-pratica](https://dev-na-pratica-01-ten.vercel.app/)
 - Atualmente faço parte da 7° turma de embaixadores na [Dio.me](https://www.dio.me/)
+- Projeto prático usando fastAPI [fastAPI](https://github.com/reinaldoper/fast-api)
 - Projeto escolar full-stack(NodeJs, React-vite, jest, express, typeScript)[Basic-School](https://school-basic-reinaldo.netlify.app/)
 - BackEnd (NodeJs,jest, express, typeScript, Prisma)[BackEnd-School-basic](https://github.com/reinaldoper/back-escola-prisma) 
 
