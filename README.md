@@ -17,6 +17,16 @@
     
 - [DominandoLinguagemProgramaçãoJava](https://www.dio.me/certificate/RDV7RJJD)
 - [ValidaçãoProcessoSeletivoJava](https://www.dio.me/certificate/NYUTYMWA)
+- [DebugindJava](https://www.dio.me/certificate/J9CHHWXC)
+- [ExceçõesJava](https://www.dio.me/certificate/FL8VLOSN)
+
+</details>
+
+<details>
+   <summary>Bootcamp Vivo BeckEnd-Python</summary> 
+    
+- [CertificadoConclusão](https://www.dio.me/certificate/4HGB8FSR)
+- [FastAPIMySql](https://www.dio.me/certificate/SQOZQQGQ)
 
 </details>
 
