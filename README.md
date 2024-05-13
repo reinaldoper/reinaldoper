@@ -8,7 +8,7 @@
     Open-source.
 </h1>
 
-- **Open source Developer[Lexart](https://lexartlabs.com/)**
+- **Atualmente Open source Developer[Lexart](https://lexartlabs.com/)**
 
 ---
 
