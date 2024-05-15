@@ -17,6 +17,7 @@
 - [ValidaçãoProcessoSeletivoJava](https://www.dio.me/certificate/NYUTYMWA)
 - [DebugindJava](https://www.dio.me/certificate/J9CHHWXC)
 - [ExceçõesJava](https://www.dio.me/certificate/FL8VLOSN)
+- [POO](https://www.dio.me/certificate/TX9SNPN8)
 
 </details>
 
