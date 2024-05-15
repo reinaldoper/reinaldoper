@@ -8,7 +8,7 @@
     Open-source.
 </h1>
 
-- **Atualmente Open source Developer[Lexart](https://lexartlabs.com/)**
+- **👩‍💻 Trabalho atualmente na...[Lexart](https://lexartlabs.com/)**
 
 ---
 
