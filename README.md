@@ -1,6 +1,4 @@
-<p align="center" border-radius="50%">
-    <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="gif" style="border-radius: 50%;">
-</p>
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 ---
 
@@ -11,8 +9,6 @@
 - **👩‍💻 Trabalho atualmente na...[Lexart](https://lexartlabs.com/) como Open source develop**
 
 ---
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 <details>
    <summary>Bootcamp Santander BeckEnd-Java</summary> 
