@@ -93,7 +93,7 @@ If you are looking for someone who combines a passion for programming, both fron
 
 ---
 
-## Alguns projetos meus. (some projects of my authorship):
+## Outros projetos:
 - [TMDB-Movies](https://movies-project-gamma.vercel.app/) - Projeto que usa a API TMDB de fimes.
   
 ```shell
