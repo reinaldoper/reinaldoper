@@ -18,6 +18,7 @@
 - [DebugindJava](https://www.dio.me/certificate/J9CHHWXC)
 - [ExceçõesJava](https://www.dio.me/certificate/FL8VLOSN)
 - [POO](https://www.dio.me/certificate/4UHPX0QU)
+- [Spring-Boot](https://www.dio.me/certificate/N04RBX9L)
 
 </details>
 
