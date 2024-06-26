@@ -15,6 +15,7 @@
     
 - [DominandoLinguagemProgramaçãoJava](https://www.dio.me/certificate/J612TEFM/share)
 - [Spring-Boot](https://www.dio.me/certificate/N04RBX9L)
+- [Java-IA](https://hermes.dio.me/certificates/XV79XYML.pdf)
 
 </details>
 
