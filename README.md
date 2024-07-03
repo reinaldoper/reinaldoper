@@ -93,19 +93,6 @@ If you are looking for someone who combines a passion for programming, both fron
 
 ---
 
-## Outros projetos:
-- [TMDB-Movies](https://movies-project-gamma.vercel.app/) - Projeto que usa a API TMDB de fimes.
-  
-```shell
- Projeto feito com nodeJs e usando ORM Prisma, express e typeScript no back-end
- e no front-end feito com React vite e typeScript
-```
-   
-- [CV](https://reinaldoper.github.io/cv/) - CV-ONLINE.
-- [Pokedex-angular](https://master--subtle-belekoy-eacccf.netlify.app/) - Pokedex.
-
----
-
 ## Para saber todos os detalhes da minha trilha na DIO.ME:
 - [Dio.me](https://github.com/reinaldoper/repositorys-dio.me) - Aqui você ficará por dentro de todos os meus projetos e certificações Dio.me.
 
