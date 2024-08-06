@@ -27,6 +27,13 @@
 
 </details>
 
+<details>
+   <summary>Bootcamp Kubernetes</summary> 
+    
+- [CertificadoConclusão](https://hermes.dio.me/certificates/GJFWL81P.pdf)
+
+</details>
+
 ---
 
 
