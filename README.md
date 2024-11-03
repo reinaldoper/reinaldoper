@@ -49,7 +49,7 @@
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
 
-Me chamo Reinaldo e sou um desenvolvedor em busca de transição de carreira, entusiasta do mundo da programação. Venho desenvolvendo minha jornada nesse fascinante campo da tecnologia.
+Me chamo Reinaldo e sou um desenvolvedor, entusiasta do mundo da programação. Venho desenvolvendo minha jornada nesse fascinante campo da tecnologia.
 
 Tenho como objetivo desenvolver aplicações em front-end e back-end para tornar a vida das pessoas e empresas mais ágeis e gerando valor.
 
