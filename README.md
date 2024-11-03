@@ -59,7 +59,7 @@ Se você está em busca de alguém que una paixão por programação, habilidade
 
 English:
 
-My name is Reinaldo and I am a developer looking for a career transition, enthusiastic about the world of programming. I have been developing my journey in this fascinating field of technology.
+My name is Reinaldo and I am a developer, enthusiastic about the world of programming. I have been developing my journey in this fascinating field of technology.
 
 My goal is to develop front-end and back-end applications to make the lives of people and companies more agile and generating value.
 
