@@ -10,6 +10,10 @@
 
 ---
 
+<h2>
+    Minha mais nova aplicação, chatbot com IA feito em python.
+</h2>
+
 <details>
    <summary>Bootcamp Santander BeckEnd-Java</summary> 
     
