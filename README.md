@@ -6,7 +6,7 @@
     Open-source.
 </h1>
 
-- **👩‍💻 Trabalho atualmente na...[Lexart](https://lexartlabs.com/) como Open source developer**
+- **👩‍💻 Trabalho atualmente na...[Lexart labs](https://lexartlabs.com/) como Open source developer**
 
 ---
 
