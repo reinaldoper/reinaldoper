@@ -52,21 +52,11 @@
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
 
-Me chamo Reinaldo e sou um desenvolvedor, entusiasta do mundo da programação. Venho desenvolvendo minha jornada nesse fascinante campo da tecnologia.
+Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes. Graduado em Engenharia de Software pela UFGD e Unicesumar, com especialização em Desenvolvimento Web pela Trybe. Experiência em projetos utilizando React.js, Node.js, e bancos de dados relacionais e NoSQL, com foco em APIs RESTful e metodologias ágeis. Contribuo ativamente na comunidade open-source no GitHub (https://github.com/reinaldoper), demonstrando meu compromisso com aprendizado contínuo e a construção de software de alta qualidade. Procuro desafios em projetos que me permitam agregar valor e continuar crescendo profissionalmente.
 
-Tenho como objetivo desenvolver aplicações em front-end e back-end para tornar a vida das pessoas e empresas mais ágeis e gerando valor.
+Versão em Inglês :
 
-Se você está em busca de alguém que una paixão por programação, habilidades tanto front-end quanto back-end, e um toque de criatividade, você está no lugar certo. Estou ansioso para trabalharmos juntos e construirmos algo extraordinário!
-
----
-
-English:
-
-My name is Reinaldo and I am a developer, enthusiastic about the world of programming. I have been developing my journey in this fascinating field of technology.
-
-My goal is to develop front-end and back-end applications to make the lives of people and companies more agile and generating value.
-
-If you are looking for someone who combines a passion for programming, both front-end and back-end skills, and a touch of creativity, you are in the right place. I look forward to working together and building something extraordinary!
+Results-oriented Full-Stack Developer passionate about building innovative and efficient solutions. Hold a Software Engineering degree from UFGD and Unicesumar, with specialized training in Web Development from Trybe. Experienced in projects leveraging React.js, Node.js, and relational and NoSQL databases, focusing on RESTful APIs and agile methodologies. Actively contribute to the open-source community on GitHub (https://github.com/reinaldoper), demonstrating my commitment to continuous learning and high-quality software development. Seeking challenging opportunities to contribute valuable skills and continue professional growth.
    
 </details>
 
