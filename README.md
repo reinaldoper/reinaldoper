@@ -47,7 +47,7 @@
 - Projeto escolar full-stack(NodeJs, React-vite, jest, express, typeScript) [Basic-School](https://school-basic-reinaldo.netlify.app/)
 - BackEnd (NodeJs,jest, express, typeScript, Prisma) [BackEnd-School-basic](https://github.com/reinaldoper/back-escola-prisma)
 - Projeto sobre os Jogos Olimpicos Paris 24 [Olympics-Games](https://olympics-games.vercel.app/)
-- Portifólio (JS) [Sobre-mim](https://project-about-me.netlify.app/) 
+- Portifólios (javaScript) [Sobre-mim](https://project-about-me.netlify.app/) (ReactJs) [Sobre-mim](https://poetic-klepon-3718ce.netlify.app/).
 
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
