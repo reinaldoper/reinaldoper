@@ -48,6 +48,7 @@
 - BackEnd (NodeJs,jest, express, typeScript, Prisma) [BackEnd-School-basic](https://github.com/reinaldoper/back-escola-prisma)
 - Projeto sobre os Jogos Olimpicos Paris 24 [Olympics-Games](https://olympics-games.vercel.app/)
 - Portifólios (javaScript) [Sobre-mim](https://project-about-me.netlify.app/) (ReactJs) [Sobre-mim](https://poetic-klepon-3718ce.netlify.app/).
+- Projeto drinks (javaScript). [Drinks](https://drink-bear.netlify.app/).
 
 <details>
    <summary><h1 align="center"> 🔭 Mais sobre mim ...</h1></summary> 
