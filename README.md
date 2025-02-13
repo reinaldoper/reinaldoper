@@ -10,8 +10,13 @@
 
 ---
 
-### Minha mais nova aplicação, chatbot com IA feito em python.
-- [CHATBOT](https://reinaldodev-chatbot-com-arquivos.hf.space/)
+
+<details>
+    <summary>Minha mais nova aplicação, chatbot com IA feito em python.</summary>
+    - [CHATBOT](https://reinaldodev-chatbot-com-arquivos.hf.space/)
+
+</details>
+
 
 <details>
    <summary>Bootcamp Santander BeckEnd-Java</summary> 
