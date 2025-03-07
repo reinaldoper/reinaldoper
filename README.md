@@ -50,7 +50,6 @@
 - Projeto revivendo o ORKUT, com serviço de mensageria no backend para controle de fluxo da API, full-stack. [Orkut](https://github.com/reinaldoper/orkut)
 - Projeto de monitoração de dispositivos IoT via Telnel.(full-stack) [Ágraria-monitoring](https://github.com/reinaldoper/agraria-monitoring)
 - Projeto prático usando fastAPI [fastAPI](https://github.com/reinaldoper/fast-api)
-- Projeto escolar full-stack(NodeJs, React-vite, jest, express, typeScript) [Basic-School](https://school-basic-reinaldo.netlify.app/)
 - BackEnd (NodeJs,jest, express, typeScript, Prisma) [BackEnd-School-basic](https://github.com/reinaldoper/back-escola-prisma)
 - Projeto sobre os Jogos Olimpicos Paris 24 [Olympics-Games](https://olympics-games.vercel.app/)
 - Portifólios (javaScript) [Sobre-mim](https://project-about-me.netlify.app/) (ReactJs) [Sobre-mim](https://poetic-klepon-3718ce.netlify.app/).
