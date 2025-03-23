@@ -7,6 +7,7 @@
 </h1>
 
 - **👩‍💻 Trabalho atualmente na...[Lexart labs](https://lexartlabs.com/) como Open source developer**
+- ***Estudando atualmente React-native***
 
 ---
 
@@ -100,8 +101,6 @@ Results-oriented Full-Stack Developer passionate about building innovative and e
 </details>
 
 ---
-
-***Estudando atualmente React-native***
 
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
