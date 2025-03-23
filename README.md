@@ -101,20 +101,7 @@ Results-oriented Full-Stack Developer passionate about building innovative and e
 
 ---
 
-## Para saber todos os detalhes da minha trilha na DIO.ME:
-- [Dio.me](https://github.com/reinaldoper/repositorys-dio.me) - Aqui você ficará por dentro de todos os meus projetos e certificações Dio.me.
-
----
-
-## Para saber todos os detalhes da minha trilha na Trybe:
-- [Trybe](https://github.com/reinaldoper/repositorys-trybe-certifications) - Aqui você ficará por dentro de todos os meus projetos e certificações Trybe.
-
----
-
-## Para saber todos os detalhes de outros projetos:
-- [Projetos](https://github.com/reinaldoper/repositorys-my-contents) - Aqui você ficará por dentro de alguns projetos particulares.
-
----
+***Estudando atualmente React-native***
 
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' width="100%" style='max-width: 100%;'/>
