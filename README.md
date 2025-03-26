@@ -2,10 +2,6 @@
 
 ---
 
-<h1>
-    Open-source.
-</h1>
-
 - **👩‍💻 Trabalho atualmente na...[Lexart labs](https://lexartlabs.com/) como Open source developer**
 - ***Estudando atualmente React-native***
 
