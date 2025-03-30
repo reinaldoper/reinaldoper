@@ -1,7 +1,8 @@
 
 <div style="display: flex; justify-content: center;">
-   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Logo" />
+   ![Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png)
 </div>
+
 
 ---
 
