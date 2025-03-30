@@ -37,7 +37,7 @@
 ---
 
 
-- Projeto dev-na-pratica-da-Trybe [dev-na-pratica](https://dev-na-pratica-01-ten.vercel.app/)
+- Projeto dev-na-pratica-da-Trybe [dev-na-pratica](https://tryber.github.io/destaque)
 - Projeto revivendo o ORKUT, com serviço de mensageria no backend para controle de fluxo da API, full-stack. [Orkut](https://github.com/reinaldoper/orkut)
 - Projeto de monitoração de dispositivos IoT via Telnel.(full-stack) [Ágraria-monitoring](https://github.com/reinaldoper/agraria-monitoring)
 - Projeto prático usando fastAPI [fastAPI](https://github.com/reinaldoper/fast-api)
