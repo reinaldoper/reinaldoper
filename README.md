@@ -101,7 +101,7 @@ Procuro desafios em projetos que me permitam agregar valor e continuar crescendo
 ## 📜 Certificados Google - Coursera
 
 <details>
-  <summary><strong>Especialização em Gerenciamento de Projetos</strong></summary>
+  <summary><strong>Especialização em Gerenciamento de Projetos e Analise de Dados.</strong></summary>
 
 - [Como começar um projeto](https://www.coursera.org/account/accomplishments/certificate/R822MQB2LPP8)
 - [Fundamentos do gerenciamento de projeto](https://www.coursera.org/account/accomplishments/certificate/BARYTFJG3WBX)
@@ -110,6 +110,7 @@ Procuro desafios em projetos que me permitam agregar valor e continuar crescendo
 - [Gerenciamento de projetos Agile](https://www.coursera.org/account/accomplishments/certificate/SHSGTCP8AHRU)
 - [Especialização - Project Management](https://www.coursera.org/account/accomplishments/specialization/certificate/PMRYNLM2G6DM)
 - [Credly - Google PM Badge](https://www.credly.com/badges/30e39a55-99cd-4a9f-a59c-10790a589384/linked_in_profile)
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/0f25d7da-0f9f-4628-8a02-9eafd23d47ce/linked_in_profile)
 
 </details>
 
