@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
 Atualmente trabalho na [Lexart Labs](https://lexartlabs.com/) como **Desenvolvedor Open Source**.  
 Atualmente, estou estudando **React Native** com foco em desenvolvimento mobile.
@@ -35,7 +35,7 @@ Procuro desafios em projetos que me permitam agregar valor e continuar crescendo
 
 ---
 
-## 🧑‍🏫 Bootcamps Concluídos
+## 👨‍💼 Bootcamps Concluídos
 
 <details>
   <summary><strong>Bootcamp Santander - Back-End Java</strong></summary>
