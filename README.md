@@ -16,13 +16,23 @@ Atualmente, estou estudando **React Native** com foco em desenvolvimento mobile.
 <details>
   <summary>Clique para expandir</summary>
 
-Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes. Graduado em Engenharia de Software pela UFGD e Unicesumar, com especialização em Desenvolvimento Web pela Trybe.
+Sou Reinaldo, engenheiro full-stack com paixão por transformar ideias em experiências digitais impactantes.
+Crio sites e aplicativos que entregam resultados reais, tanto para quem usa quanto para quem vende. Minha missão é simples: dar vida à sua visão com tecnologia de ponta.
 
-Experiência em projetos utilizando **React.js**, **Node.js**, **bancos de dados relacionais** e **NoSQL**, com foco em **APIs RESTful** e **metodologias ágeis**.
+🔗 Especialista em integração com APIs — conecto sistemas para entregar soluções completas e funcionais.
 
-Contribuo ativamente na comunidade open-source no [GitHub](https://github.com/reinaldoper), demonstrando meu compromisso com aprendizado contínuo e a construção de software de alta qualidade.
+💡 O que você pode esperar de mim:
 
-Procuro desafios em projetos que me permitam agregar valor e continuar crescendo profissionalmente.
+• Interfaces modernas, responsivas e com foco mobile-first
+• SEO estratégico para te colocar no topo do Google
+• Soluções centradas no usuário, sempre alinhadas aos seus objetivos de negócio
+
+🛠️ Minhas ferramentas do dia a dia:
+
+React • Next.js • TailwindCSS • Material UI • TypeScript
+MySQL • PostgreSQL • Prisma • TypeOrm • Sequelize
+React Native • Expo • Native Base
+NodeJs - Express
 
 **Versão em Inglês:**
 
