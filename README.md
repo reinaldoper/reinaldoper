@@ -77,7 +77,7 @@ NodeJs - Express
 
 - [Dev na Prática - Trybe](https://tryber.github.io/destaque)
 - [Orkut (Full Stack + Mensageria)](https://github.com/reinaldoper/orkut)
-- [Ágraria Monitoring - IoT via Telnet](https://github.com/reinaldoper/agraria-monitoring)
+- [AeroSystem](https://aerosystem.vercel.app/)
 - [FastAPI Project](https://github.com/reinaldoper/fast-api)
 - [Back-End School - Node.js, TypeScript, Prisma](https://github.com/reinaldoper/back-escola-prisma)
 - [Olympic Games Paris 2024](https://olympics-games.vercel.app/)
