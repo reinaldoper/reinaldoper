@@ -75,16 +75,13 @@ NodeJs - Express
 
 ## 💼 Projetos em Destaque
 
+- [SOS-React-native](https://github.com/reinaldoper/app-sos)
 - [Dev na Prática - Trybe](https://tryber.github.io/destaque)
 - [Orkut (Full Stack + Mensageria)](https://github.com/reinaldoper/orkut)
 - [AeroSystem](https://aerosystem.vercel.app/)
 - [FastAPI Project](https://github.com/reinaldoper/fast-api)
 - [Back-End School - Node.js, TypeScript, Prisma](https://github.com/reinaldoper/back-escola-prisma)
 - [Olympic Games Paris 2024](https://olympics-games.vercel.app/)
-- Portfólios:
-  - [Sobre mim (JavaScript)](https://project-about-me.netlify.app/)
-  - [Sobre mim (React.js)](https://poetic-klepon-3718ce.netlify.app/)
-- [Drinks App (JavaScript)](https://drink-bear.netlify.app/)
 
 ---
 
