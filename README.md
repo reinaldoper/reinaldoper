@@ -8,6 +8,7 @@
 
 Atualmente trabalho na [Lexart Labs](https://lexartlabs.com/) como **Desenvolvedor Open Source**.  
 Atualmente, estou estudando **React Native** com foco em desenvolvimento mobile.
+[PORTFÒLIO](https://about-me-two-kohl.vercel.app/)
 
 ---
 
