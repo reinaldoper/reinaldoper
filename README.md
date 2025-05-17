@@ -12,7 +12,7 @@
 
 ---
 
-### Projeto em destaque:
+### 💼 Projeto em destaque:
 
 - [CARTEIRA_DIGITAL](https://meios-de-pagamentos.netlify.app/)
 
@@ -81,7 +81,7 @@ NodeJs - Express
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Alguns projetos:
 
 - [SOS-React-native](https://github.com/reinaldoper/app-sos)
 - [Dev na Prática - Trybe](https://tryber.github.io/destaque)
