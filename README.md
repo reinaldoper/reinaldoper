@@ -12,6 +12,13 @@
 
 ---
 
+### Projeto em destaque:
+
+- [CARTEIRA_DIGITAL](https://meios-de-pagamentos.netlify.app/)
+
+
+---
+
 ## 🔭 Mais Sobre Mim
 
 <details>
