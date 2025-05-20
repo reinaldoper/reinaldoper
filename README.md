@@ -93,30 +93,6 @@ NodeJs - Express
 
 ---
 
-## 🔭 Mais Sobre Mim
-
-<details>
-  <summary>Clique para expandir</summary>
-
-Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes. Graduado em Engenharia de Software pela UFGD e Unicesumar, com especialização em Desenvolvimento Web pela Trybe.
-
-Experiência em projetos utilizando **React.js**, **Node.js**, **bancos de dados relacionais** e **NoSQL**, com foco em **APIs RESTful** e **metodologias ágeis**.
-
-Contribuo ativamente na comunidade open-source no [GitHub](https://github.com/reinaldoper), demonstrando meu compromisso com aprendizado contínuo e a construção de software de alta qualidade.
-
-Procuro desafios em projetos que me permitam agregar valor e continuar crescendo profissionalmente.
-
-**Versão em Inglês:**
-
-> Results-oriented Full-Stack Developer passionate about building innovative and efficient solutions. Hold a Software Engineering degree from UFGD and Unicesumar, with specialized training in Web Development from Trybe.  
-> Experienced in projects leveraging React.js, Node.js, and relational and NoSQL databases, focusing on RESTful APIs and agile methodologies.  
-> Actively contribute to the open-source community on [GitHub](https://github.com/reinaldoper), demonstrating my commitment to continuous learning and high-quality software development.  
-> Seeking challenging opportunities to contribute valuable skills and continue professional growth.
-
-</details>
-
----
-
 ## 📜 Certificados de Inglês
 
 <details>
