@@ -12,9 +12,10 @@
 
 ---
 
-### 💼 Projeto em destaque:
+### 💼 Projetos em destaque:
 
 - [CARTEIRA_DIGITAL](https://meios-de-pagamentos.netlify.app/)
+- [API-PAYPAL](https://github.com/reinaldoper/paypal-api)
 
 
 ---
