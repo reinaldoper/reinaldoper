@@ -1,6 +1,39 @@
+<!-- Banner central animado -->
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+</div>
+
+<h1 align="center">Olá, eu sou Reinaldo Pereira 👋</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Logo" width="150" />
+  Desenvolvedor <strong>Full‑Stack</strong> apaixonado por tecnologia, backend, e soluções com impacto real.
 </p>
+
+---
+
+## 🚀 Sobre mim
+
+- 💼 Atualmente trabalho na **Lexart Labs** como Desenvolvedor Open Source  
+- 📱 Estudando **React Native** para desenvolvimento mobile  
+- 📫 Contato: **reinaldoper83@gmail.com**  
+- 🌐 Meu portfólio: [about-me-two-kohl.vercel.app](https://about-me-two-kohl.vercel.app/)
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
+</div>
 
 ---
 
