@@ -45,6 +45,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Nest.js](https://img.shields.io/badge/Nest.js-000000?logo=nestdotjs&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebase-000000?logo=firebase&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-000000?logo=javascript&logoColor=white&style=for-the-badge)
 
 </div>
 
