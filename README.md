@@ -75,6 +75,8 @@
 
 - Swagger para documentação da API incorporado
 - Middleware customizado
+- Banco de dados SQLite
+- ORM Prisma
 
 ---
 
