@@ -82,7 +82,7 @@
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | SOS‑React‑Native | App de emergência mobile | [🔗 GitHub](https://github.com/reinaldoper/app-sos) |
-| Orkut Clone | Clone funcional com Next.js + Tailwind + mensageria | [🔗 GitHub](https://github.com/reinaldoper/orkut) |
+| Orkut Clone | Clone funcional com Reactjs + NodeJs + mensageria | [🔗 GitHub](https://github.com/reinaldoper/orkut) |
 | AeroSystem | Plataforma aérea para controle de voos | [🔗 Vercel](https://aerosystem.vercel.app/) |
 
 ---
