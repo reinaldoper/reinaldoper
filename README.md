@@ -71,7 +71,7 @@
 ---
 
 ### 🟣 [API-E-COMMERCE](https://github.com/reinaldoper/e-commerce)
-> API robusta usando Nest.js + Express
+> API robusta usando Nest.js 
 
 - Swagger para documentação da API incorporado
 - Middleware customizado
