@@ -20,6 +20,17 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)
+
+</div>
+
+---
+
 ## 🛠️ Tecnologias que utilizo
 
 <div align="center">
@@ -38,93 +49,41 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
 
-- Atualmente trabalho na [Lexart Labs](https://lexartlabs.com/) como **Desenvolvedor Open Source**.  
-- Atualmente, estou estudando **React Native** com foco em desenvolvimento mobile.
-- [PORTFÒLIO](https://about-me-two-kohl.vercel.app/)
+## 💼 Projetos em Destaque
 
----
+### 🟢 [Carteira Digital](https://meios-de-pagamentos.netlify.app/)
+> App Web com NextJs + Tailwind para controle de pagamentos
 
-### 💼 Projetos em destaque:
-
-- [CARTEIRA_DIGITAL](https://meios-de-pagamentos.netlify.app/)
-- [API-PAYPAL](https://github.com/reinaldoper/paypal-api)
-
+- Integração com firebase
+- UX simplificado para envio de valores
+- Deploy via Netlify
 
 ---
 
-## 🔭 Mais Sobre Mim
+### 🟣 [API-PAYPAL](https://github.com/reinaldoper/paypal-api)
+> API robusta usando Node.js + Express integrada com o serviço de pagamento PayPal
 
-<details>
-  <summary>Clique para expandir</summary>
-
-Sou Reinaldo, engenheiro full-stack com paixão por transformar ideias em experiências digitais impactantes.
-Crio sites e aplicativos que entregam resultados reais, tanto para quem usa quanto para quem vende. Minha missão é simples: dar vida à sua visão com tecnologia de ponta.
-
-🔗 Especialista em integração com APIs — conecto sistemas para entregar soluções completas e funcionais.
-
-💡 O que você pode esperar de mim:
-
-• Interfaces modernas, responsivas e com foco mobile-first
-• SEO estratégico para te colocar no topo do Google
-• Soluções centradas no usuário, sempre alinhadas aos seus objetivos de negócio
-
-🛠️ Minhas ferramentas do dia a dia:
-
-React • Next.js • TailwindCSS • Material UI • TypeScript
-MySQL • PostgreSQL • Prisma • TypeOrm • Sequelize
-React Native • Expo • Native Base
-NodeJs - Express
-
-**Versão em Inglês:**
-
-> Results-oriented Full-Stack Developer passionate about building innovative and efficient solutions. Hold a Software Engineering degree from UFGD and Unicesumar, with specialized training in Web Development from Trybe.  
-> Experienced in projects leveraging React.js, Node.js, and relational and NoSQL databases, focusing on RESTful APIs and agile methodologies.  
-> Actively contribute to the open-source community on [GitHub](https://github.com/reinaldoper), demonstrating my commitment to continuous learning and high-quality software development.  
-> Seeking challenging opportunities to contribute valuable skills and continue professional growth.
-
-</details>
+- Integração com a api da PayPal
+- Link de confirmação de pagamento
 
 ---
 
-## 👨‍💼 Bootcamps Concluídos
+### 🟣 [API-E-COMMERCE](https://github.com/reinaldoper/e-commerce)
+> API robusta usando Nest.js + Express e JWT
 
-<details>
-  <summary><strong>Bootcamp Santander - Back-End Java</strong></summary>
-
-- [Dominando Linguagem de Programação Java](https://www.dio.me/certificate/J612TEFM/share)
-- [Spring Boot](https://www.dio.me/certificate/N04RBX9L)
-- [Java e Inteligência Artificial](https://hermes.dio.me/certificates/XV79XYML.pdf)
-
-</details>
-
-<details>
-  <summary><strong>Bootcamp Vivo - Back-End Python</strong></summary>
-
-- [Certificado de Conclusão](https://www.dio.me/certificate/4HGB8FSR)
-- [FastAPI com MySQL](https://www.dio.me/certificate/SQOZQQGQ)
-
-</details>
-
-<details>
-  <summary><strong>Bootcamp Kubernetes</strong></summary>
-
-- [Certificado de Conclusão](https://hermes.dio.me/certificates/GJFWL81P.pdf)
-
-</details>
+- Swagger para documentação da API incorporado
+- JWT e Middleware customizado
 
 ---
 
-## 💼 Alguns projetos:
+## 🧩 Outros Projetos
 
-- [SOS-React-native](https://github.com/reinaldoper/app-sos)
-- [Dev na Prática - Trybe](https://tryber.github.io/destaque)
-- [Orkut (Full Stack + Mensageria)](https://github.com/reinaldoper/orkut)
-- [AeroSystem](https://aerosystem.vercel.app/)
-- [FastAPI Project](https://github.com/reinaldoper/fast-api)
-- [Back-End School - Node.js, TypeScript, Prisma](https://github.com/reinaldoper/back-escola-prisma)
-- [Olympic Games Paris 2024](https://olympics-games.vercel.app/)
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| SOS‑React‑Native | App de emergência mobile | [🔗 GitHub](https://github.com/reinaldoper/app-sos) |
+| Orkut Clone | Clone funcional com Next.js + Tailwind + mensageria | [🔗 GitHub](https://github.com/reinaldoper/orkut) |
+| AeroSystem | Plataforma aérea para controle de voos | [🔗 Vercel](https://aerosystem.vercel.app/) |
 
 ---
 
@@ -166,42 +125,17 @@ NodeJs - Express
 
 ---
 
+## 📬 Entre em Contato
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+  <a href="https://linkedin.com/in/reinaldo-pereira-9222a27a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:reinaldoper83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Minhas Skills
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-</p>
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-pereira-9222a27a/)  
-📧 E-mail: **reinaldoper83@gmail.com**
-
----
-
-## 📊 Estatísticas GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=default)](https://github.com/reinaldoper/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)](https://github.com/reinaldoper/github-readme-stats)
+## 🧠 “O conhecimento cresce quando é compartilhado.”
