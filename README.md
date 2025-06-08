@@ -71,10 +71,10 @@
 ---
 
 ### 🟣 [API-E-COMMERCE](https://github.com/reinaldoper/e-commerce)
-> API robusta usando Nest.js + Express e JWT
+> API robusta usando Nest.js + Express
 
 - Swagger para documentação da API incorporado
-- JWT e Middleware customizado
+- Middleware customizado
 
 ---
 
