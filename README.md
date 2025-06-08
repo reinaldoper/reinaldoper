@@ -16,7 +16,7 @@
 - 💼 Atualmente trabalho na **Lexart Labs** como Desenvolvedor Open Source  
 - 📱 Estudando **React Native** para desenvolvimento mobile  
 - 📫 Contato: **reinaldoper83@gmail.com**  
-- 🌐 Meu portfólio: [about-me-two-kohl.vercel.app](https://about-me-two-kohl.vercel.app/)
+- 🌐 Meu portfólio: [about-me](https://about-me-two-kohl.vercel.app/)
 
 ---
 
