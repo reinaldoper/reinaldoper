@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou Reinaldo Pereira 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full‑Stack</strong> apaixonado por tecnologia, backend, e soluções com impacto real.
+  Desenvolvedor <strong>Full‑Stack</strong> e Engenheiro de Software, entrego soluções com impacto real.
 </p>
 
 ---
