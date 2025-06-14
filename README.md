@@ -87,7 +87,7 @@
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | SOS‑React‑Native | App de emergência mobile | [🔗 GitHub](https://github.com/reinaldoper/app-sos) |
-| Whatsapp-bot | Bot com integração whatsapp usando o Twilio | [🔗 GitHub](https://github.com/reinaldoper/whatsapp-bot) |
+| API-Whatsapp-bot | Bot com integração whatsapp usando o Twilio | [🔗 GitHub](https://github.com/reinaldoper/whatsapp-bot) |
 | AeroSystem | Plataforma aérea para controle de voos | [🔗 Vercel](https://aerosystem.vercel.app/) |
 
 ---
