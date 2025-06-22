@@ -26,6 +26,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoper&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=reinaldoper&theme=tokyonight)](https://git.io/streak-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=reinaldoper&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
