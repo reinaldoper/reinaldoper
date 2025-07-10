@@ -26,7 +26,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=tokyonight)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=reinaldoper&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Reinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldoper&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
