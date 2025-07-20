@@ -15,6 +15,7 @@
 
 - 💼 Atualmente trabalho na **Lexart Labs** como Desenvolvedor Open Source  
 - 📱 Estudando **React Native** para desenvolvimento mobile  
+- [certificado-react-native](https://hermes.dio.me/certificates/MGYKVKKU.pdf)
 - 📫 Contato: **reinaldoper83@gmail.com**  
 - 🌐 Meu portfólio: [about-me](https://about-me-two-kohl.vercel.app/)
 
