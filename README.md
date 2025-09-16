@@ -21,6 +21,13 @@
 
 ---
 
+## 💼 Fintech(Em desenvolvimento) fase final.
+Uma plataforma inteligente de gestão financeira voltada para administradores que desejam automatizar cobranças, acompanhar receitas e gerenciar assinaturas com eficiência. Integrada ao Mercado Pago, a fintech permite que cada cliente admin receba pagamentos diretamente em sua conta, enquanto a plataforma retém uma comissão transparente de 5% por operação. Com dashboards intuitivos, controle de saldo, e suporte a Pix, boleto e recorrência, oferecemos uma solução moderna para monetizar serviços e escalar operações com segurança.
+
+[FINTECH](https://site-fintech.netlify.app)
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
