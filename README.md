@@ -32,16 +32,16 @@ Sou apaixonado por aprender continuamente, criar produtos úteis e compartilhar 
 
 ### 🚀 Projetos Relevantes  
 
-**Carteira Digital**  
+### 🟢 [Carteira Digital](https://meios-de-pagamentos.netlify.app/)  
 Aplicação web em **Next.js + Tailwind**, integrada ao Firebase para controle simples de pagamentos.  
 
-**API-PayPal**  
+### 🟣 [API-PAYPAL](https://github.com/reinaldoper/paypal-api)  
 API robusta em **Node.js + Express**, com integração ao PayPal para gerenciamento de pagamentos online.  
 
-**API-E-Commerce**  
+### 🟣 [API-E-COMMERCE](https://github.com/reinaldoper/e-commerce)  
 API desenvolvida em **Nest.js + Prisma**, com documentação via Swagger e banco de dados SQLite.  
 
-**SaaS – Pet Shop**  
+### 🟢 [SaaS - Pet-shop](https://github.com/reinaldoper/petcare-saas)  
 Plataforma SaaS para clínicas veterinárias, oferecendo agendamento, cadastro de clientes e serviços.  
 
 ---
