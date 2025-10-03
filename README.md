@@ -32,8 +32,8 @@ Sou apaixonado por aprender continuamente, criar produtos úteis e compartilhar 
 
 ### 🚀 Projetos Relevantes  
 
-### 🟢 [Carteira Digital](https://meios-de-pagamentos.netlify.app/)  
-Aplicação web em **Next.js + Tailwind**, integrada ao Firebase para controle simples de pagamentos.  
+### 🟢 [SaaS Fintech](https://fintechup.com.br/)  
+Aplicação para finanças, ideal para empresas, comunidades, grupos, com mercado pago integrado.  
 
 ### 🟣 [API-PAYPAL](https://github.com/reinaldoper/paypal-api)  
 API robusta em **Node.js + Express**, com integração ao PayPal para gerenciamento de pagamentos online.  
