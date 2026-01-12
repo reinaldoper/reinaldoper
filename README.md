@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-- 💼 Atualmente trabalho na **Lexart Labs** como Desenvolvedor Open Source  
+- 💼 Atualmente trabalho na **Nevoa Venture Tech** como Desenvolvedor full-stack 
 - 💼 Também trabalho como técnido de automação industrial
 - 📱 Estudando **React Native** para desenvolvimento mobile  
 - [certificado-react-native](https://hermes.dio.me/certificates/MGYKVKKU.pdf)
