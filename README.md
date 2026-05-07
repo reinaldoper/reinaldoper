@@ -13,8 +13,6 @@
 
 ## 🚀 Sobre mim
 
-- 💼 Atualmente trabalho na **Inflex** como Tec. eletrotécnico/automação industrial. 
-- 💼 Também trabalho como técnido de automação industrial
 - 📱 Estudando **React Native** para desenvolvimento mobile  
 - [certificado-react-native](https://hermes.dio.me/certificates/MGYKVKKU.pdf)
 - 📫 Contato: **reinaldoper83@gmail.com**  
