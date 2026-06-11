@@ -39,8 +39,8 @@ API robusta em **Node.js + Express**, com integração ao PayPal para gerenciame
 ### 🟣 [API-E-COMMERCE](https://github.com/reinaldoper/e-commerce)  
 API desenvolvida em **Nest.js + Prisma**, com documentação via Swagger e banco de dados SQLite.  
 
-### 🟢 [SaaS - Pet-shop](https://github.com/reinaldoper/petcare-saas)  
-Plataforma SaaS para clínicas veterinárias, oferecendo agendamento, cadastro de clientes e serviços.  
+### 🟢 [Drone](https://github.com/reinaldoper/drone-feeder)  
+Projeto feito em Java com Spring boot para monitorar drones.  
 
 ---
 
