@@ -30,8 +30,8 @@ Sou apaixonado por aprender continuamente, criar produtos úteis e compartilhar 
 
 ### 🚀 Projetos Relevantes  
 
-### 🟢 [SaaS Fintech](https://fintechup.com.br/)  
-Aplicação para finanças, ideal para empresas, comunidades, grupos, com mercado pago integrado.  
+### 🟢 [Elétrica_industrial](https://eletrica-gamma.vercel.app/)  
+Aplicação para pesquisas, cálculos, dimensionamentos de circuitos elétricos.  
 
 ### 🟣 [API-PAYPAL](https://github.com/reinaldoper/paypal-api)  
 API robusta em **Node.js + Express**, com integração ao PayPal para gerenciamento de pagamentos online.  
